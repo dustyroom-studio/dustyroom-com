@@ -46,6 +46,7 @@ plugins:
 
 author:
   name   : "Dustyroom"
+  logo: "/assets/images/dr-logo-100.png"
   avatar : "/assets/images/dr-logo-100.png"
   bio    : "Dustyroom makes games / music / assets / interactive experiences."
   links:
@@ -68,9 +69,7 @@ defaults:
       layout: single
       author_profile: false
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-53337407-2"
