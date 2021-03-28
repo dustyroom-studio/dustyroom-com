@@ -1,3 +1,55 @@
 main:
   - title: "About"
     url: /about/
+
+project-groups:
+  - title: "Unity Assets"
+    children:
+      - title: "Flat Kit"
+        url: /flat-kit
+      - title: "Flight Kit"
+        url: /
+      - title: "COLR"
+        url: /
+      - title: "Casual Game Music Pack"
+        url: /
+      - title: "Stain System"
+        url: /
+      - title: "Everloop"
+        url: /
+      - title: "Lowpoly Substances"
+        url: /
+      - title: "Retro Aesthetics"
+        url: /
+  - title: "Games"
+    children:
+      - title: "Empty."
+        url: /empty
+      - title: "Powernode"
+        url: /powernode
+      - title: "Spårvagn"
+        url: /sparvagn
+      - title: "Soundmarine"
+        url: /soundmarine
+      - title: "Aeroteque"
+        url: /
+      - title: "Our Early Games"
+        url: /
+  - title: "Freebies"
+    children:
+      - title: "Static Kit"
+        url: /static-kit
+      - title: "Fake Acoustic Drum Kit"
+        url: /
+      - title: "Free Casual Game Sounds"
+        url: /
+      - title: "Weird Phatty"
+        url: /
+  - title: "Music"
+    children:
+      - title: "Colorspacious"
+        url: /
+      - title: "Expect Subtle Miracles When Using a Time Bending Machine"
+        url: /
+      - title: "Music From Our games"
+        url: /

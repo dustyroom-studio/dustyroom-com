@@ -68,6 +68,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "project-groups"
+
+atom_feed:
+  hide: true
 
 analytics:
   provider: "google-gtag"
