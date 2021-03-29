@@ -19,6 +19,36 @@ The beauty of the idea is that you decide how your continuous soundtrack is goin
   * You can make your background track even more interesting by changing the parts during playback. You start with piano, after a short musical phrase you swap it with guitar and then replace the guitar with with viola.
 
 Listen to random rips, which were captured while plying with Everloop, as well as SFX previews:
-
 [Soundcloud](https://soundcloud.com/dstrm/sets/everloop-never-ending-soundtrack-suite)  
+
+Watch the video of toying with the Demo of the early version:
 [![YouTube]()](https://youtu.be/zU0WFwDfaYU)
+
+Instruments / layers included:
+  * Resonant calm piano
+  * Warm electric piano
+  * Dreamful viola
+  * Synth line with effects
+  * Low-frequency synth bass
+  * Delightful clarinet
+  * Noisy-birdy-nature ambience
+  * Wide soothing organ-ish pad
+  * Trumpet
+  * Glittering celesta
+  * Gameboy-inspired sound
+  * Cinematic soundscape
+  * Synth Bass with wider frequency range
+  * Synth swells
+  * Percussion rhythm line
+  * Synth drone
+  * Stuttering sweeps
+
+Contents:
+
+  * 17 loop-able WAV audio files of the parts in the key of C major
+  * 20 SFX audio files, also in the responsive key
+  * PDF sheet with the track list and descriptions to the parts.
+
+Inspired by the ‘In Bb 2.0’ project — [inbflat.net](http://inbflat.net)  
+[Get Everloop at Unity Asset Store](https://assetstore.unity.com/packages/audio/music/everloop-nonlinear-soundtrack-45205?aid=1101lHzQ&utm_source=aff)  
+[Scripting reference](http://dustyroom.com/everloop/api/)  
