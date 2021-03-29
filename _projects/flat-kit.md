@@ -1,11 +1,56 @@
 ---
 permalink: /flat-kit/
-title: "Flat Kit"
+title: "Flat Kit: Toon Shading and Water"
 header:
   image: /assets/images/flat-kit-header-1.jpeg
   teaser: assets/images/flat-kit-header-1.jpeg
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Flat Kit is a complete solution to achieve the stylish cel-shaded look: shaders, models, image effects, presets, examples.
+The custom shading model is versatile enough to work great for classic cel/toon shading and for unique styles of experimental projects.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Features:
+
+  * Polished Cel shading with lots of capabilities (see below)
+  * Gradient fog: Multi-stop horizontal/vertical gradient Fog Image Effect
+  * Water shader
+  * Outline Image Effect and Outline shader
+  * LightPlane shader for 3D highlights and god rays
+  * Mobile support
+  * Built-in and URP support – all object shaders and post-processing effects support both rendering pipelines.
+  * Terrain shader that works with Unity or third party terrain
+  * Vertex color support (built-in RP only), also works with Polybrush
+  * Ability to control Unity built-in shadows
+  * Indirect lighting support
+  * Intuitive, simple and streamlined interface — use only what you need
+  * Color the scene precisely — without guesswork
+  * Full source code
+  * Elaborated online manual
+
+[![YouTube — Flat Kit: Toon Shading and Water — Demo (1/2)]()](https://youtu.be/Sc838YuWPhA)  
+[![YouTube — Flat Kit: Toon Shading and Water — Demo (2/2)]()](https://youtu.be/N3H_AFKaMUM)
+
+Core Cel shader overview:
+
+  * Cel shading with parametric banding: single, steps, curve
+  * Two independent cel layers
+  * Height gradient layer
+  * Couple of outline tools
+  * Parametric blend between normal and cel shading
+  * Stylized specular and rim lighting
+  * Normal map support
+  * Reusable custom lighting in a .cginc file that you can integrate in your shaders (not required).
+
+The package includes:
+
+  * 4 uber-shaders with lots of toggles and parameters
+  * Custom lighting library for toon shading
+  * 2 post-processing effects: fog and outline
+  * 11 demo scenes
+  * 100+ models
+  * 20+ material presets
+  * 4 additional scripts
+
+[Get an Unity Asset Store](https://assetstore.unity.com/packages/vfx/shaders/flat-kit-cel-toon-shading-143368?aid=1101lHzQ)  
+
+[Online Manual](https://flatkit.dustyroom.com/)  
