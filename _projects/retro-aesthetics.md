@@ -17,6 +17,8 @@ Key features included:
   * Fonts  
   * Sounds (Music + SFX)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/suI6L7yR0D4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [![YouTube — Retro Aesthetics — Trailer]()](https://youtu.be/suI6L7yR0D4)  
 [![YouTube — Retro Aesthetics — Parameters Overview]()](https://youtu.be/8EcD7yOba0Y)  
 
