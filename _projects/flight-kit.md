@@ -27,13 +27,13 @@ What’s Included
   * 13 sound effects and 2 music tracks (menu and gameplay).
   * 49 UI sprites.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f6_qJygYtKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f6_qJygYtKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0kaIita6Od4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0kaIita6Od4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 [Demo (Collect)](http://dustyroom.com/flight-kit/demo/)  
 [Demo (Fuel)](http://dustyroom.com/flight-kit/demo2/)  
-[Documentation](http://staging.dustyroom.com/assets/_pages/docs/flight-kit-online-manual/)  
+[Documentation](https://staging.dustyroom.com/flight-kit-online-manual/)  
 [Asset Store](https://www.assetstore.unity3d.com/#!/content/55700?aid=1101lHzQ)  
 [Forum Thread](http://forum.unity3d.com/threads/wip-flight-kit-arkade-style-flight-simulator.384929/)  
 [API Reference](http://dustyroom.com/flight-kit/api/)  

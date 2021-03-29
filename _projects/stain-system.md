@@ -43,7 +43,7 @@ Demo scenes (6 demo scenes are included in the asset package. Try yourself three
 [Demo 2 (WebGL)](http://dustyroom.com/splatter-system/demo2)  
 [Demo 3 (WebGL)](http://dustyroom.com/splatter-system/demo3)  
 
-[Documentation](http://staging.dustyroom.com/assets/_pages/docs/stain-system-online-manual)  
+[Documentation](https://staging.dustyroom.com/stain-system-online-manual/)  
 
 Get your copy of Stain System
 

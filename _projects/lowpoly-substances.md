@@ -19,11 +19,12 @@ Features include:
 
 Watch the video of the demo scenes and noodling with the shaders included in the asset pack…  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hUS8_1_FMpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hUS8_1_FMpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 We included many general as well as more specific fire and water models in the asset (camp fire, candle fire etc). Also lots of useful presets of the materials (with the shaders on them) are ready to be dropped onto the models.
 
 ![](https://staging.dustyroom.com/assets/images/lowpoly-substances-web-post2.png)  
+
 ![](https://staging.dustyroom.com/assets/images/lowpoly-substances-web-post.png)  
 
 The materials are highly adjustable. You can make two completely different fires using two (or more) copies of one fire prefab with two materials on each of them.  

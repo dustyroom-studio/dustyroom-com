@@ -17,10 +17,10 @@ Key features included:
   * Fonts  
   * Sounds (Music + SFX)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/suI6L7yR0D4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/suI6L7yR0D4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8EcD7yOba0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8EcD7yOba0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 [Get Asset](https://assetstore.unity.com/packages/tools/particles-effects/retro-aesthetics-79538?aid=1101lHzQ&utm_source=aff)  
 [WebGL Demo](http://dustyroom.com/retro-aesthetics/demo1/)  
-[Documentation](http://staging.dustyroom.com/assets/_pages/docs/retro-aesthetics-online-manual)  
+[Documentation](https://staging.dustyroom.com/retro-aesthetics-online-manual/)  
