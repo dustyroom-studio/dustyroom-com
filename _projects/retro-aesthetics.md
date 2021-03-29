@@ -19,8 +19,7 @@ Key features included:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/suI6L7yR0D4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![YouTube — Retro Aesthetics — Trailer]()](https://youtu.be/suI6L7yR0D4)  
-[![YouTube — Retro Aesthetics — Parameters Overview]()](https://youtu.be/8EcD7yOba0Y)  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8EcD7yOba0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Get Asset](https://assetstore.unity.com/packages/tools/particles-effects/retro-aesthetics-79538?aid=1101lHzQ&utm_source=aff)  
 [WebGL Demo](http://dustyroom.com/retro-aesthetics/demo1/)  
