@@ -1,6 +1,6 @@
 ---
-permalink: /sparvagn/
-title: "Spårvagn"
+permalink: /soundmarine/
+title: "Soundmarine"
 header:
   image: /assets/images/soundmarine-1.png
   teaser: assets/images/soundmarine-1.png

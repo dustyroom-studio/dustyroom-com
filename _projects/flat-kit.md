@@ -27,8 +27,9 @@ Features:
   * Full source code
   * Elaborated online manual
 
-[![YouTube — Flat Kit: Toon Shading and Water — Demo (1/2)]()](https://youtu.be/Sc838YuWPhA)  
-[![YouTube — Flat Kit: Toon Shading and Water — Demo (2/2)]()](https://youtu.be/N3H_AFKaMUM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sc838YuWPhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N3H_AFKaMUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Core Cel shader overview:
 

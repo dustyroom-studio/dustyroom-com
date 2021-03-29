@@ -19,8 +19,7 @@ Features include:
 
 Watch the video of the demo scenes and noodling with the shaders included in the asset pack…  
 
-[![YouTube — Lowpoly Substances Demo]()](https://youtu.be/hUS8_1_FMpk)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hUS8_1_FMpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We included many general as well as more specific fire and water models in the asset (camp fire, candle fire etc). Also lots of useful presets of the materials (with the shaders on them) are ready to be dropped onto the models.
 
@@ -31,7 +30,7 @@ The materials are highly adjustable. You can make two completely different fires
 
 ![](https://staging.dustyroom.com/assets/images/lowpoly-substances-web-post3.png)
 
-**Here is how to apply the shaders to any object:**
+**Here is how to apply the shaders to any object:**  
 
 1. Add a model of fire or water to the scene (or any object for that matter)
 2. Create a new material or duplicate one in the Materials folder of the asset

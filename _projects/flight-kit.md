@@ -27,8 +27,9 @@ What’s Included
   * 13 sound effects and 2 music tracks (menu and gameplay).
   * 49 UI sprites.
 
-[![YouTube — Flight Kit Gameplay Demo]()](https://www.youtube.com/watch?v=f6_qJygYtKk)  
-[![YouTube — FlightKit Mobile Gameplay]()](https://www.youtube.com/watch?v=0kaIita6Od4)  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f6_qJygYtKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0kaIita6Od4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 [Demo (Collect)](http://dustyroom.com/flight-kit/demo/)  
 [Demo (Fuel)](http://dustyroom.com/flight-kit/demo2/)  

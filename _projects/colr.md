@@ -21,8 +21,9 @@ For extended capabilities, check out the [Marvelous Techniques](http://u3d.as/gs
 
 **Special!** Check out our complete project – **Flight Kit** ([Web Page](http://dustyroom.com/flight-kit/), [Unity Asset Store](https://www.assetstore.unity3d.com/#!/content/55700?aid=1101lHzQ)) which includes Colr and a demo game.
 
-[![YouTube — Colr – Lighthouse Scene Demo]()](https://youtu.be/moGigrOMvd4)
-[![YouTube — Colr – Castle Scene Demo]()](https://youtu.be/QTlxbC7tyNY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/moGigrOMvd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QTlxbC7tyNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Scene Demo WebGL](http://dustyroom.com/colr/demo/)  
 [Documentation](http://staging.dustyroom.com/assets/_pages/docs/colr-online-manual/)  

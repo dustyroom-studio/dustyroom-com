@@ -20,7 +20,7 @@ Splatter System at a glance:
   * CPU/GPU/RAM-optimized
   * Custom shapes support
 
-[![YouTube — Stain System Trailer]()](https://youtu.be/qIaVUO0xoxE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qIaVUO0xoxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](https://staging.dustyroom.com/assets/images/stain-system-01.gif)
 

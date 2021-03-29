@@ -18,11 +18,13 @@ The beauty of the idea is that you decide how your continuous soundtrack is goin
   * If you are working on a game project, use the quiet three-part mix in the menu, and during the actual gameplay you disable those parts used in menu but play other ones.
   * You can make your background track even more interesting by changing the parts during playback. You start with piano, after a short musical phrase you swap it with guitar and then replace the guitar with with viola.
 
-Listen to random rips, which were captured while playing with Everloop, as well as SFX previews:
-[Soundcloud](https://soundcloud.com/dstrm/sets/everloop-never-ending-soundtrack-suite)  
+Listen to random rips, which were captured while playing with Everloop, as well as SFX previews on [Soundcloud](https://soundcloud.com/dstrm/sets/everloop-never-ending-soundtrack-suite)  
 
-Watch the video of toying with the Demo of the early version:
-[![YouTube]()](https://youtu.be/zU0WFwDfaYU)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/141110127&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dstrm" title="Dustyroom" target="_blank" style="color: #cccccc; text-decoration: none;">Dustyroom</a> · <a href="https://soundcloud.com/dstrm/sets/everloop-never-ending-soundtrack-suite" title="Everloop - Non-linear Soundtrack Suite" target="_blank" style="color: #cccccc; text-decoration: none;">Everloop - Non-linear Soundtrack Suite</a></div>
+
+Watch the video of toying with the Demo of the early version:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zU0WFwDfaYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Instruments / layers included:
 
