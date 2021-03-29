@@ -18,13 +18,14 @@ The beauty of the idea is that you decide how your continuous soundtrack is goin
   * If you are working on a game project, use the quiet three-part mix in the menu, and during the actual gameplay you disable those parts used in menu but play other ones.
   * You can make your background track even more interesting by changing the parts during playback. You start with piano, after a short musical phrase you swap it with guitar and then replace the guitar with with viola.
 
-Listen to random rips, which were captured while plying with Everloop, as well as SFX previews:
+Listen to random rips, which were captured while playing with Everloop, as well as SFX previews:
 [Soundcloud](https://soundcloud.com/dstrm/sets/everloop-never-ending-soundtrack-suite)  
 
 Watch the video of toying with the Demo of the early version:
 [![YouTube]()](https://youtu.be/zU0WFwDfaYU)
 
 Instruments / layers included:
+
   * Resonant calm piano
   * Warm electric piano
   * Dreamful viola
