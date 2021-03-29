@@ -1,6 +1,6 @@
 ---
 permalink: /colr/
-title: "COLR: Coloring Redefined"
+title: "Colr: Coloring Redefined"
 header:
   image: /assets/images/statickit-tapemachine-header-1.jpeg
   teaser: assets/images/statickit-tapemachine-header-1.jpeg
@@ -25,5 +25,5 @@ For extended capabilities, check out the [Marvelous Techniques](http://u3d.as/gs
 [![YouTube — Colr – Castle Scene Demo]()](https://youtu.be/QTlxbC7tyNY)
 
 [Scene Demo WebGL](http://dustyroom.com/colr/demo/)  
-[Documentation](http://dustyroom.com/colr-online-manual/)  
-[Asset Store](https://assetstore.unity.com/packages/vfx/shaders/colr-coloring-redefined-57591?aid=1101lHzQ&utm_source=aff)
+[Documentation](http://staging.dustyroom.com/assets/_pages/docs/colr-online-manual/)  
+[Asset Store](https://assetstore.unity.com/packages/vfx/shaders/colr-coloring-redefined-57591?aid=1101lHzQ&utm_source=aff)  

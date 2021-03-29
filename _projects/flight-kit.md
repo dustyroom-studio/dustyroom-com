@@ -32,7 +32,7 @@ What’s Included
 
 [Demo (Collect)](http://dustyroom.com/flight-kit/demo/)  
 [Demo (Fuel)](http://dustyroom.com/flight-kit/demo2/)  
-[Documentation](http://dustyroom.com/flight-kit-online-manual/)  
+[Documentation](http://staging.dustyroom.com/assets/_pages/docs/flight-kit-online-manual/)  
 [Asset Store](https://www.assetstore.unity3d.com/#!/content/55700?aid=1101lHzQ)  
 [Forum Thread](http://forum.unity3d.com/threads/wip-flight-kit-arkade-style-flight-simulator.384929/)  
 [API Reference](http://dustyroom.com/flight-kit/api/)  

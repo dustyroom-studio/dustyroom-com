@@ -6,6 +6,20 @@ header:
   teaser: assets/images/flat-kit-header-1.jpeg
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Retro Aesthetics asset provides all resources to turn a game of any genre into a stylish 80’s movies inspired title. It covers object materials, a full-screen camera effect, textures and UI, as well as color presets and demos of the asset in action. We made it easily extensible to give you a possibility to tune to the unique needs of your game. In this document we describe each component of the asset and explain how it can be tuned to your needs.  
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Key features included:
+  * Demos  
+  * Materials 
+  * Skybox  
+  * Camera Effects  
+  * Graphics for logo construction  
+  * Fonts  
+  * Sounds (Music + SFX)
+
+[![YouTube — Retro Aesthetics — Trailer]()](https://youtu.be/suI6L7yR0D4)  
+[![YouTube — Retro Aesthetics — Parameters Overview]()](https://youtu.be/8EcD7yOba0Y)  
+
+[Get Asset](https://assetstore.unity.com/packages/tools/particles-effects/retro-aesthetics-79538?aid=1101lHzQ&utm_source=aff)  
+[WebGL Demo](http://dustyroom.com/retro-aesthetics/demo1/)  
+[Documentation](http://staging.dustyroom.com/assets/_pages/docs/retro-aesthetics-online-manual)  
