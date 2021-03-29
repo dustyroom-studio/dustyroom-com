@@ -6,6 +6,24 @@ header:
   teaser: assets/images/statickit-tapemachine-header-1.jpeg
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Colr is the set of shaders designed to make coloring of objects quick and easy. Colr helps you achieve stylish and consistent look for your game by letting you select colors of material sides directly, bypassing lighting.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Colr features:  
+  * Color everything: apply directional (per-side) GRADIENTS and/or SOLID colors to objects; fill skybox with gradient
+  * Uses no lighting and no textures, thus performs fast and has a clean look.
+  * Mobile friendly
+  * Adjustable. A variety of handy parameters provided for you to tweak
+  * Easy to use. Can be used on any object, just assign the shader to a material
+  * Includes three different demo scenes with lots of presets and models
+  * Built-In and Universal RP support
+
+For extended capabilities, check out the [Marvelous Techniques](http://u3d.as/gsY) asset, which inspired Colr.  
+
+**Special!** Check out our complete project – **Flight Kit** ([Web Page](http://dustyroom.com/flight-kit/), [Unity Asset Store](https://www.assetstore.unity3d.com/#!/content/55700?aid=1101lHzQ)) which includes Colr and a demo game.
+
+[![YouTube — Colr – Lighthouse Scene Demo]()](https://youtu.be/moGigrOMvd4)
+[![YouTube — Colr – Castle Scene Demo]()](https://youtu.be/QTlxbC7tyNY)
+
+[Scene Demo WebGL](http://dustyroom.com/colr/demo/)  
+[Documentation](http://dustyroom.com/colr-online-manual/)  
+[Asset Store](https://assetstore.unity.com/packages/vfx/shaders/colr-coloring-redefined-57591?aid=1101lHzQ&utm_source=aff)
