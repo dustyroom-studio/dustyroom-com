@@ -22,12 +22,26 @@ Splatter System at a glance:
 
 [![YouTube — Stain System Trailer]()](https://youtu.be/qIaVUO0xoxE)
 
+![](https://staging.dustyroom.com/assets/images/stain-system-01.gif)
+
+Screenshots of the demo scenes:  
+
+![](https://staging.dustyroom.com/assets/images/stain-system-01-768x512.png)  
+
+![](https://staging.dustyroom.com/assets/images/stain-system-02-768x512.png)  
+
+![](https://staging.dustyroom.com/assets/images/stain-system-03-768x512.png)  
+
+![](https://staging.dustyroom.com/assets/images/stain-system-04-768x512.png)  
+
+![](https://staging.dustyroom.com/assets/images/stain-system-05-768x512.png)  
+
 Demo scenes (6 demo scenes are included in the asset package. Try yourself three of them by the links below):
 
-[Demo 1 (WebGL)](http://dustyroom.com/splatter-system/demo1)
-[Demo 1 (Android)](https://www.dropbox.com/s/7pz42rc6w8fe68x/splatter-system-demo1.apk?dl=1)
-[Demo 2 (WebGL)](http://dustyroom.com/splatter-system/demo2)
-[Demo 3 (WebGL)](http://dustyroom.com/splatter-system/demo3)
+[Demo 1 (WebGL)](http://dustyroom.com/splatter-system/demo1)  
+[Demo 1 (Android)](https://www.dropbox.com/s/7pz42rc6w8fe68x/splatter-system-demo1.apk?dl=1)  
+[Demo 2 (WebGL)](http://dustyroom.com/splatter-system/demo2)  
+[Demo 3 (WebGL)](http://dustyroom.com/splatter-system/demo3)  
 
 Get your copy of Stain System
 
