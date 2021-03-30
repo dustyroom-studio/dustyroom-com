@@ -46,8 +46,8 @@ plugins:
 
 author:
   name   : "Dustyroom"
-  logo: "/assets/images/dr-logo-light-vertical.png"
-  avatar : "/assets/images/dr-logo-light-vertical.png"
+  logo: "/assets/images/dr-logo-light-transp.png"
+  avatar : "/assets/images/dr-logo-light-transp.png"
   bio    : "Dustyroom makes games / music / assets / interactive experiences."
   links:
     - label: "Twitter"
