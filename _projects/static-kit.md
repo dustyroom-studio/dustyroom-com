@@ -44,6 +44,8 @@ A noise patch on Arp Odyssey:
   * Load a few drum samples. On a separate track add a crackling texture. Chop it and arrange it under the drums so that together they sound like sampled from a vinyl record. Resample the audio and slice the recording onto the drum pads. Or just use the resampled drums as audio clips.
   * Load a convolution processor onto a track with a noise sample. Add any short chord sample or a single note snippet as an impulse response file. Lots of cool drones can be made this way. Using various noise textures results in drastically unique drones. Warning, it's addicting.
 
+![](https://staging.dustyroom.com/assets/images/statickit-tapemachine-header-1.jpeg)
+
 Download Static Kit completely for free or optionally pay any amount.  
 
 <div style="text-align: center">

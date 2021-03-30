@@ -8,6 +8,8 @@ header:
 
 A game about being in a flow.  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WbGspQ1diNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Before the Ludum Dare jam, we planned to make an action-packed juicy pixel platformer. In the end, we made a calm abstract puzzle game. Beauty of LD!  
 
 Every idea we had for a platformer wasn’t very interesting, so we started thinking about making game about logistics as our entry. Inspired by the great Factorio and Mini Metro, we tried to extract production belts and manufacturing into a simple innovative puzzle.  
@@ -43,7 +45,7 @@ Have fun!
 [Our Ludum Dare contest entry page](https://ldjam.com/events/ludum-dare/39/supernode)  
 [Game with fixes on itch.io](https://dustyroom.itch.io/supernode)  
 
-Update. We partnered with Opal Games, who released Powernode to the iOS and Android devices. Later the game got featured as “Game of the Day” on the App Store.
+Long after a [Ludum Dare entry](http://dustyroom.com/supernode-ld39-entry/) in 2017 to the full release. The game went through some changes, including adopting a new name. We’re very happy to have partnered with [Opal Games](http://opalgames.fr/) to publish this game.. We partnered with Opal Games, who released Powernode to the iOS and Android devices. Later the game got featured as “Game of the Day” on the App Store.
 
 [![Download on the App Store](https://staging.dustyroom.com/assets/images/appstore_button_download.png "Download on the App Store")](https://apps.apple.com/us/app/powernode/id1339814815)
 [![Get It on Google Play](https://staging.dustyroom.com/assets/images/google-play-badge-1.png "Get It on Google Play")](https://play.google.com/store/apps/details?id=com.dustyroom.supersum)  

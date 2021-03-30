@@ -26,3 +26,6 @@ Key features included:
 [Get Asset](https://assetstore.unity.com/packages/tools/particles-effects/retro-aesthetics-79538?aid=1101lHzQ&utm_source=aff)  
 [WebGL Demo](http://dustyroom.com/retro-aesthetics/demo1/)  
 [Documentation](https://staging.dustyroom.com/retro-aesthetics-online-manual/)  
+
+A print of Retro Aesthetics was exibited on Unity Art Gallery at Unite Austin in 2017!
+![](https://staging.dustyroom.com/assets/images/retro-aesthetics-IMG_2785-1-1024x627.jpg)

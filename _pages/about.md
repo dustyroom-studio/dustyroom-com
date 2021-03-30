@@ -14,4 +14,4 @@ info @ dustyroom . com
 [Twitter](https://twitter.com/_dstrm)  
 [Bandcamp](http://dustyroom.bandcamp.com/)  
 [YouTube](http://youtube.com/dustyroomgames)  
-[SoundCloud](http://soundcloud.com/dstrm). 
+[SoundCloud](http://soundcloud.com/dstrm)  

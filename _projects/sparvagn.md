@@ -6,6 +6,28 @@ header:
   teaser: assets/images/sparvagn-1.jpeg
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+“Creating a safer commute for the many people.”  
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/usIMhdKetg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Rules:
+  * Click on trams to stop / launch them.
+  * Avoid collisions.  
+
+When the tram makes a loop, it takes one person aboard from circle’s tram stop.  
+
+The level ends when all the people take a ride.  
+
+Made for Ludum Dåre 47.  
+
+![](https://staging.dustyroom.com/assets/images/sparvagn-1-TnbgfE.gif)  
+
+![](https://staging.dustyroom.com/assets/images/sparvagn-2-TVr6U_.jpg)  
+
+![](https://staging.dustyroom.com/assets/images/sparvagn-3-7MXGGM.jpg)  
+
+[Original Ludum Dare 47 Entry](https://ldjam.com/events/ludum-dare/47/sparvagn)
+[Download on itch.io — Windows, macOS, Linux]
+
+
+
