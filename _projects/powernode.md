@@ -6,6 +6,8 @@ header:
   teaser: assets/images/powernode-1.webp
 ---
 
+A game about being in a flow.  
+
 Before the Ludum Dare jam, we planned to make an action-packed juicy pixel platformer. In the end, we made a calm abstract puzzle game. Beauty of LD!  
 
 Every idea we had for a platformer wasn’t very interesting, so we started thinking about making game about logistics as our entry. Inspired by the great Factorio and Mini Metro, we tried to extract production belts and manufacturing into a simple innovative puzzle.  

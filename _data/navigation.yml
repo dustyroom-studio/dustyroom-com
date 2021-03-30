@@ -8,19 +8,19 @@ project-groups:
       - title: "Flat Kit"
         url: /flat-kit
       - title: "Flight Kit"
-        url: /
+        url: /flight-kit
       - title: "COLR"
-        url: /
+        url: /colr
       - title: "Casual Game Music Pack"
-        url: /
+        url: /casual-game-music-pack
       - title: "Stain System"
-        url: /
+        url: /stain-system
       - title: "Everloop"
-        url: /
+        url: /everloop
       - title: "Lowpoly Substances"
-        url: /
+        url: /lowpoly-substances
       - title: "Retro Aesthetics"
-        url: /
+        url: /retro-aesthetics
   - title: "Games"
     children:
       - title: "Empty."
@@ -32,24 +32,24 @@ project-groups:
       - title: "Soundmarine"
         url: /soundmarine
       - title: "Aeroteque"
-        url: /
+        url: /aeroteque
       - title: "Our Early Games"
-        url: /
+        url: /our-early-games
   - title: "Freebies"
     children:
       - title: "Static Kit"
         url: /static-kit
       - title: "Fake Acoustic Drum Kit"
-        url: /
+        url: /fake-acoustic-drum-kit
       - title: "Free Casual Game Sounds"
-        url: /
+        url: /free-casual-game-sounds
       - title: "Weird Phatty"
         url: /
   - title: "Music"
     children:
       - title: "Colorspacious"
-        url: /
+        url: /colorspacious-album
       - title: "Expect Subtle Miracles When Using a Time Bending Machine"
-        url: /
+        url: /expect-subtle-miracles-when-using-a-time-bending-machine-ep
       - title: "Music From Our games"
-        url: /
+        url: /music-from-our-games

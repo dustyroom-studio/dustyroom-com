@@ -1,5 +1,5 @@
 ---
-permalink: /fadk/
+permalink: /fake-acoustic-drum-kit/
 title: "Fake Acoustic Drum Kit"
 header:
   image: /assets/images/statickit-tapemachine-header-1.jpeg
