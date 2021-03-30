@@ -8,6 +8,8 @@ header:
 
 Retro Aesthetics asset provides all resources to turn a game of any genre into a stylish 80’s movies inspired title. It covers object materials, a full-screen camera effect, textures and UI, as well as color presets and demos of the asset in action. We made it easily extensible to give you a possibility to tune to the unique needs of your game. In this document we describe each component of the asset and explain how it can be tuned to your needs.  
 
+![](https://staging.dustyroom.com/assets/images/retro-aesthetics-header.png)
+
 Key features included:
   * Demos  
   * Materials 

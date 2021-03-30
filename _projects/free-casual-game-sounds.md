@@ -6,6 +6,22 @@ header:
   teaser: assets/images/statickit-tapemachine-header-1.jpeg
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+![](https://staging.dustyroom.com/assets/images/fcgs-feat.jpg)
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Casual Game Sounds is a collection of original hand-crafted one-shot sound effects. It contains essential audio material covering most events of any casual game, i.e. short blips for bonuses, juicy explosion sounds, tight snappy clicks for tile removal, ticking clocks for depicting the level running out of time etc. The pack also contains UX / UI sounds.
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176207859&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dstrm" title="Dustyroom" target="_blank" style="color: #cccccc; text-decoration: none;">Dustyroom</a> · <a href="https://soundcloud.com/dstrm/casual-game-sfx-sample-pack-preview" title="Casual Game SFX - Sample Pack" target="_blank" style="color: #cccccc; text-decoration: none;">Casual Game SFX - Sample Pack</a></div>
+
+The audio effects can be used in your game at any stage and of course are suitable for prototyping and game jams. All the sounds were professionally recorded, synthesized and processed with techniques that we usually use for our games. To be notified about updates and future packs, feel free to follow us on [Twitter](https://twitter.com/_dstrm).  
+
+The pack at a glance:  
+  * 50 sound effects
+  * Covers most events of any casual game: bonuses, tile removal, ticking clocks etc
+  * Everything in the pack licensed CC Zero (CC0)
+  * Includes UX / UI sounds
+  * 24-bit WAV format, 44.1 kHz Stereo  
+
+[Get Here at Unity Asset Store](https://www.assetstore.unity3d.com/#!/content/54116?aid=1101lHzQ)  
+
+If you don’t use Unity, please [download the pack here](https://secureservercdn.net/50.62.198.70/157.58a.myftpupload.com/casualgamesounds/DM-CGS.zip)
+

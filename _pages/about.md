@@ -3,9 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
+
 We are the small creative studio based in Kyiv, Ukraine.    
 
-Max Dzitsiuk: code, generative art  
+Max Dzitsiuk: code, generative art.  
 Volodymyr Dzitsiuk ([Polygrim](http://polygrimmusic.com/)): art, sound.  
 
 info @ dustyroom . com  

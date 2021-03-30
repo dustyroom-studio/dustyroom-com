@@ -6,6 +6,8 @@ header:
   teaser: assets/images/statickit-tapemachine-header-1.jpeg
 ---
 
+A museum of our early projects.  
+
 These games were made in the beginning of our studio's existence between years 2010—2014. Most of the games were casual games but some of them had a prolonged play-through. None of these projects are available now but there may be some memories left.
 
 ### Stunt Rush
@@ -86,9 +88,11 @@ A skill-based game based on slingshot mechanics.
 
 Our second game. Initially made for a flash player but later ported to BlackBerry devices. It was a sokoban puzzle game where you move the ice cubes. The addictiveness of this game surpassed all the expectations. If you haven't yet, just find a good sokoban, thank us later.  
 
-![](https://staging.dustyroom.com/assets/images/early-games/
+![](https://staging.dustyroom.com/assets/images/early-games/polarslide_thumb1.png)  
 
 ### It's Dark In Hell
 
 It is our kick-off, the first game. Collect and run! Light the torches! Was available in the internets, especially at agame.com.
+
+![](https://staging.dustyroom.com/assets/images/early-games/itsdarkinhell_thumb1.png)  
 
