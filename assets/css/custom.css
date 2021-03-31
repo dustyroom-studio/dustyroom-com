@@ -6,6 +6,20 @@ body {
  line-height:1.1;
 }
 
+.page__content dl {
+ font-size:.65em;
+}
+
+.page__content p {
+ margin:0 0 1em;
+}
+
+.sidebar li {
+ font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+ font-size:.7em;
+ line-height:1
+}
+
 .grid__item .archive__item-title {
  margin-top:0.5em;
  font-size:0.8em;
