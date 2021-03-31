@@ -2,7 +2,7 @@
 permalink: /free-casual-game-sounds/
 title: "Free Casual Game Sounds"
 header:
-  image: image: /assets/images/teaser-header.png
+  image: /assets/images/teaser-header.png
   teaser: assets/images/free-casual-game-sounds.png
 ---
 

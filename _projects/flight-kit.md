@@ -2,7 +2,7 @@
 permalink: /flight-kit/
 title: "Flight Kit"
 header:
-  image: image: /assets/images/teaser-header.png
+  image: /assets/images/teaser-header.png
   teaser: assets/images/flight-kit.png
 ---
 

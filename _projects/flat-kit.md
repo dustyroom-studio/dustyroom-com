@@ -2,7 +2,7 @@
 permalink: /flat-kit/
 title: "Flat Kit: Toon Shading and Water"
 header:
-  image: image: /assets/images/teaser-header.png
+  image: /assets/images/teaser-header.png
   teaser: assets/images/flat-kit.png
 ---
 

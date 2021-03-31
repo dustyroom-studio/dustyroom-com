@@ -2,7 +2,7 @@
 permalink: /lowpoly-substances/
 title: "Lowpoly Substances"
 header:
-  image: image: /assets/images/teaser-header.png
+  image: /assets/images/teaser-header.png
   teaser: assets/images/lowpoly-substances.png
 ---
 

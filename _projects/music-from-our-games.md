@@ -2,7 +2,7 @@
 permalink: /music-from-our-games/
 title: "Music From Our Games"
 header:
-  image: image: /assets/images/teaser-header.png
+  image: /assets/images/teaser-header.png
   teaser: assets/images/music-from-our-games.png
 ---
 

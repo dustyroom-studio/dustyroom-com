@@ -2,7 +2,7 @@
 permalink: /powernode/
 title: "Powernode"
 header:
-  image: image: /assets/images/teaser-header.png
+  image: /assets/images/teaser-header.png
   teaser: assets/images/powernode.png
 ---
 
