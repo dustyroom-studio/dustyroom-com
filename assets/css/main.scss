@@ -19,9 +19,19 @@ body {
  background: #1d1c21;
 }
 
+a {
+ color:#f21368;
+ text-decoration: none;
+}
+
 ::selection {
  color:#fff;
  background:#555;
+}
+
+.archive__item-title {
+ font-family:"Helvetica Neue","Nunito Sans",-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Lucida Grande",Arial,sans-serif;
+ line-height:1;
 }
 
 .page__hero {
@@ -66,13 +76,19 @@ body {
  }
 }
 
+form {
+ padding:0.1em;
+ background-color:#1d1c21;
+}
+
 .greedy-nav {
  min-height:1em;
- background:1d1c21;
- color: e4decf;
+ background:#1d1c21;
+ color:#e4decf;
 }
 
 .page__footer {
  background-color:#1d1c21;
+ color:#e4decf;
 }
 
