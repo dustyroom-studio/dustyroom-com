@@ -10,12 +10,5 @@ $monospace          : Monaco, Consolas, "Lucida Console", monospace;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import custom.css
 
-
-body {
- margin:0;
- padding:0;
- color:#fff6fb;
- font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
- line-height:1.1;
-}
