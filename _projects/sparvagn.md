@@ -27,8 +27,8 @@ Made for Ludum Dåre 47.
 
 ![](https://staging.dustyroom.com/assets/images/sparvagn-3-7MXGGM.jpg)  
 
-[Original Ludum Dare 47 Entry](https://ldjam.com/events/ludum-dare/47/sparvagn)
-[Download on itch.io — Windows, macOS, Linux](https://dustyroom.itch.io/sparvagn)
+[Original Ludum Dare 47 Entry](https://ldjam.com/events/ludum-dare/47/sparvagn)  
+[Download on itch.io — Windows, macOS, Linux](https://dustyroom.itch.io/sparvagn)  
 
 
 
