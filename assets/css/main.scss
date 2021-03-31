@@ -14,16 +14,18 @@ $monospace          : Monaco, Consolas, "Lucida Console", monospace;
 //custom css
 
 body {
- margin:0;
- padding:0;
- color:#fff6fb;
- font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+ color:#e4decf;
  line-height:1.1;
+ background: #1d1c21;
 }
 
 ::selection {
  color:#fff;
  background:#555;
+}
+
+.page__hero {
+    margin-bottom: 0.1em;
 }
 
 .page__content p,
@@ -62,5 +64,15 @@ body {
  .grid__item .archive__item-teaser {
   max-height:200px
  }
+}
+
+.greedy-nav {
+ min-height:1em;
+ background:1d1c21;
+ color: e4decf;
+}
+
+.page__footer {
+ background-color:#1d1c21;
 }
 
