@@ -2,8 +2,8 @@
 permalink: /free-casual-game-sounds/
 title: "Free Casual Game Sounds"
 header:
-  image: /assets/images/statickit-tapemachine-header-1.jpeg
-  teaser: assets/images/statickit-tapemachine-header-1.jpeg
+  image: image: /assets/images/teaser-header.png
+  teaser: assets/images/free-casual-game-sounds.png
 ---
 
 Casual Game Sounds is a collection of original hand-crafted one-shot sound effects. It contains essential audio material covering most events of any casual game, i.e. short blips for bonuses, juicy explosion sounds, tight snappy clicks for tile removal, ticking clocks for depicting the level running out of time etc. The pack also contains UX / UI sounds.

@@ -2,8 +2,8 @@
 permalink: /powernode/
 title: "Powernode"
 header:
-  image: /assets/images/powernode-1.webp
-  teaser: assets/images/powernode-1.webp
+  image: image: /assets/images/teaser-header.png
+  teaser: assets/images/powernode.png
 ---
 
 A game about being in a flow.  

@@ -2,8 +2,8 @@
 permalink: /fake-acoustic-drum-kit/
 title: "Fake Acoustic Drum Kit"
 header:
-  image: /assets/images/statickit-tapemachine-header-1.jpeg
-  teaser: assets/images/statickit-tapemachine-header-1.jpeg
+  image: /assets/images/teaser-header.png
+  teaser: assets/images/fake-acoustic-drum-kit.png
 ---
 
 A synth pretending to be the drummer.  

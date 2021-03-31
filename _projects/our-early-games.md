@@ -2,8 +2,8 @@
 permalink: /our-early-games/
 title: "Our-Early-Games"
 header:
-  image: /assets/images/statickit-tapemachine-header-1.jpeg
-  teaser: assets/images/statickit-tapemachine-header-1.jpeg
+  image: image: /assets/images/teaser-header.png
+  teaser: assets/images/our-early-games.png
 ---
 
 A museum of our early projects.  

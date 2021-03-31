@@ -2,8 +2,8 @@
 permalink: /retro-aesthetics/
 title: "Retro Aesthetics"
 header:
-  image: /assets/images/flat-kit-header-1.jpeg
-  teaser: assets/images/flat-kit-header-1.jpeg
+  image: image: /assets/images/teaser-header.png
+  teaser: assets/images/retro-aesthetics.png
 ---
 
 Retro Aesthetics asset provides all resources to turn a game of any genre into a stylish 80’s movies inspired title. It covers object materials, a full-screen camera effect, textures and UI, as well as color presets and demos of the asset in action. We made it easily extensible to give you a possibility to tune to the unique needs of your game. In this document we describe each component of the asset and explain how it can be tuned to your needs.  

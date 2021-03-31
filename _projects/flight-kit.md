@@ -2,8 +2,8 @@
 permalink: /flight-kit/
 title: "Flight Kit"
 header:
-  image: /assets/images/statickit-tapemachine-header-1.jpeg
-  teaser: assets/images/statickit-tapemachine-header-1.jpeg
+  image: image: /assets/images/teaser-header.png
+  teaser: assets/images/flight-kit.png
 ---
 
 Flight Kit is a complete flight simulator with emphasis on great look and fun gameplay.  

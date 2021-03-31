@@ -2,8 +2,8 @@
 permalink: /stain-system/
 title: "Stain System"
 header:
-  image: /assets/images/statickit-tapemachine-header-1.jpeg
-  teaser: assets/images/statickit-tapemachine-header-1.jpeg
+  image:  /assets/images/teaser-header.png
+  teaser: assets/images/stain-system.png
 ---
 
 Stain System is a special tool for Unity to spice up your game. It lets you add splashes of paint, dirt, blood, grass etc on your scene objects. It is an awesome way to spice up your game and works with any 2D and many 3D games.  

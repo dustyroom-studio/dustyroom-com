@@ -2,8 +2,8 @@
 permalink: /empty/
 title: "Empty."
 header:
-  image: /assets/images/empty-1.png
-  teaser: assets/images/empty-1.png
+  image: /assets/images/teaser-header.png
+  teaser: assets/images/empty.png
 ---
 
 “Empty.” is a minimalist zen puzzle game that teaches value of simplicity in life. The goal is to remove all objects by rotating a room.  

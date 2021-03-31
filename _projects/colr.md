@@ -2,11 +2,13 @@
 permalink: /colr/
 title: "Colr: Coloring Redefined"
 header:
-  image: /assets/images/statickit-tapemachine-header-1.jpeg
-  teaser: assets/images/statickit-tapemachine-header-1.jpeg
+  image: /assets/images/teaser-header.png
+  teaser: assets/images/colr.png
 ---
 
 Colr is the set of shaders designed to make coloring of objects quick and easy. Colr helps you achieve stylish and consistent look for your game by letting you select colors of material sides directly, bypassing lighting.
+
+![](https://staging.dustyroom.com/assets/images/colr-cross-picture.png)  
 
 Colr features:  
   * Color everything: apply directional (per-side) GRADIENTS and/or SOLID colors to objects; fill skybox with gradient

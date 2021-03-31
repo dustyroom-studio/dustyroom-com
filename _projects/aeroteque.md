@@ -2,8 +2,8 @@
 permalink: /aeroteque/
 title: "Aeroteque"
 header:
-  image: /assets/images/powernode-1.webp
-  teaser: assets/images/powernode-1.webp
+  image: /assets/images/teaser-header.png
+  teaser: assets/images/aeroteque.png
 ---
 
 A game where the pie charts can be fun.  

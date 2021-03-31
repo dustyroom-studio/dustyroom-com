@@ -2,8 +2,8 @@
 permalink: /sparvagn/
 title: "Spårvagn"
 header:
-  image: /assets/images/sparvagn-1.jpeg
-  teaser: assets/images/sparvagn-1.jpeg
+  image:  /assets/images/teaser-header.png
+  teaser: assets/images/sparvagn.png
 ---
 
 “Creating a safer commute for the many people.”  

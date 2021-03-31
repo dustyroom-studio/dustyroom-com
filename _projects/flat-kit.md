@@ -2,8 +2,8 @@
 permalink: /flat-kit/
 title: "Flat Kit: Toon Shading and Water"
 header:
-  image: /assets/images/flat-kit-header-1.jpeg
-  teaser: assets/images/flat-kit-header-1.jpeg
+  image: image: /assets/images/teaser-header.png
+  teaser: assets/images/flat-kit.png
 ---
 
 Flat Kit is a complete solution to achieve the stylish cel-shaded look: shaders, models, image effects, presets, examples.

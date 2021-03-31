@@ -2,8 +2,8 @@
 permalink: /soundmarine/
 title: "Soundmarine"
 header:
-  image: /assets/images/soundmarine-1.png
-  teaser: assets/images/soundmarine-1.png
+  image:  /assets/images/teaser-header.png
+  teaser: assets/images/soundmarine.png
 ---
 
 Soundmarine came out as the short (actually, very short) music-driven game-experience. We decided to try to make a game in a distinct visual style reminiscent of the works of Jean Giraud aka Moebius.  
