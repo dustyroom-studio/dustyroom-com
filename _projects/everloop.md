@@ -2,8 +2,8 @@
 permalink: /everloop/
 title: "Everloop"
 header:
-  image: /assets/images/everloop.png
-  teaser: assets/images/teaser-header.png
+  image: /assets/images/teaser-header.png
+  teaser: assets/images/everloop.png
 ---
 [Everloop](https://assetstore.unity.com/packages/audio/music/everloop-nonlinear-soundtrack-45205?aid=1101lHzQ&utm_source=aff) is the pack of beautiful organic hand-crafted and processed original ambient music tracks and sound effects.  
 
