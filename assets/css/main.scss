@@ -21,8 +21,19 @@ body {
  line-height:1.1;
 }
 
+::selection {
+ color:#fff;
+ background:#555;
+}
+
+.page__content p,
+.page__content li,
 .page__content dl {
- font-size:.65em;
+ font-size:0.65em;
+}
+
+.page__title {
+ margin-bottom: 1.1em;
 }
 
 .page__content p {
