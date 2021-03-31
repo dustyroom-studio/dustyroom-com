@@ -6,11 +6,6 @@ body {
  line-height:1.1;
 }
 
-a {
- color:#f21368;
- text-decoration: none;
-}
-
 .grid__item .archive__item-title {
  margin-top:0.5em;
  font-size:0.8em;
