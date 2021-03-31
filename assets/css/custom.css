@@ -5,3 +5,27 @@ body {
  font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
  line-height:1.1;
 }
+
+a {
+ color:#f21368;
+ text-decoration: none;
+}
+
+.grid__item .archive__item-title {
+ margin-top:0.5em;
+ font-size:0.8em;
+}
+
+@media (min-width: 48em) {
+ .grid__item .archive__item-excerpt {
+  display:block;
+  font-size:.65em
+ }
+}
+
+@media (min-width: 48em) {
+ .grid__item .archive__item-teaser {
+  max-height:200px
+ }
+}
+
