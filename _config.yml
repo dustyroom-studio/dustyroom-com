@@ -77,7 +77,7 @@ defaults:
       type: projects
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       sidebar:
         nav: "project-groups"
       share: false
