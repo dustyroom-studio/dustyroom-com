@@ -9,7 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Dustyroom makes games / music / assets / interactive experiences.
 twitter_username: _dstrm
 minimal_mistakes_skin: neon
-search: false
+search: true
 
 # Build settings
 markdown: kramdown
@@ -68,6 +68,9 @@ defaults:
     values:
       layout: single
       author_profile: false
+      sidebar:
+        nav: "project-groups"
+      share: false
   # _projects
   - scope:
       path: "_projects"
