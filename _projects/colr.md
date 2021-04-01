@@ -2,7 +2,7 @@
 permalink: /colr/
 title: "Colr: Coloring Redefined"
 header:
-  image: /assets/images/teaser-header.png
+  image: /assets/images/colr.png
   teaser: assets/images/colr.png
 ---
 
