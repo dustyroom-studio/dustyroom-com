@@ -38,6 +38,10 @@ a {
     margin-bottom: 0.1em;
 }
 
+//.page__hero--overlay {
+//    font-size: 0px;
+//}
+
 .page__content p,
 .page__content li,
 .page__content dl {
@@ -55,7 +59,12 @@ a {
 .sidebar li {
  font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
  font-size:.7em;
- line-height:1
+ padding-bottom: 3px;
+ line-height:1.0
+}
+
+sidebar p, .sidebar li {
+ line-height: 1.1;
 }
 
 .grid__item .archive__item-title {
