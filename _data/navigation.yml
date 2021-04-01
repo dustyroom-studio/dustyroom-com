@@ -47,9 +47,9 @@ project-groups:
         url: /
   - title: "Music"
     children:
-      - title: "Colorspacious"
+      - title: "DR002 — Album"
         url: /colorspacious-album
-      - title: "Expect Subtle Miracles When Using a Time Bending Machine"
+      - title: "DR001 — EP"
         url: /expect-subtle-miracles-when-using-a-time-bending-machine-ep
       - title: "Music From Our games"
         url: /music-from-our-games

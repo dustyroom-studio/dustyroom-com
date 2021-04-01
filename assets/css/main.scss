@@ -63,7 +63,8 @@ a {
  line-height:1.0
 }
 
-sidebar p, .sidebar li {
+sidebar p {
+ font-size: .7em;
  line-height: 1.1;
 }
 
@@ -89,6 +90,19 @@ form {
  padding:0.1em;
  background-color:#1d1c21;
 }
+
+.nav__sub-title {
+    display: inline-flex;
+    margin: 0.25rem 0;
+    padding: 0.25em;
+    font-family: "Helvetica Neue","Nunito Sans",-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Lucida Grande",Arial,sans-serif;
+    font-size: .75em;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 1px solid #f21368;
+    background-color: #e4decf;
+    color: #1d1c21;
+    background-color: #e4decf;
 
 .greedy-nav {
  min-height:1em;
