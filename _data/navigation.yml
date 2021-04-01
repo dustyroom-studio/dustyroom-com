@@ -44,12 +44,12 @@ project-groups:
       - title: "Free Casual Game Sounds"
         url: /free-casual-game-sounds
       - title: "Weird Phatty"
-        url: /
+        url: /weird-phatty
   - title: "Music"
     children:
-      - title: "DR002 — Album"
+      - title: Colorspacious— Album"
         url: /colorspacious-album
-      - title: "DR001 — EP"
+      - title: "E.S.M.W.U.A.T.B.M. — EP"
         url: /expect-subtle-miracles-when-using-a-time-bending-machine-ep
-      - title: "Music From Our games"
+      - title: "Music From Our Games"
         url: /music-from-our-games

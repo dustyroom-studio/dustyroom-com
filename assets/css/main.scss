@@ -68,8 +68,14 @@ sidebar p {
  line-height: 1.1;
 }
 
+.sidebar p {
+ font-size: .7em;
+ line-height: 1.1;
+}
+
 .grid__item .archive__item-title {
  margin-top:0.5em;
+ padding-bottom: 0.15em;
  font-size:0.8em;
 }
 
@@ -99,15 +105,22 @@ form {
     font-size: .75em;
     font-weight: bold;
     text-transform: uppercase;
-    border-bottom: 1px solid #f21368;
-    background-color: #e4decf;
-    color: #1d1c21;
-    background-color: #e4decf;
+    border: 1px solid #e4decf;
+//    color: #1d1c21;
+//    background-color: #e4decf;
+}
+
+.search__toggle {
+    color: #e4decf;
 }
 
 .greedy-nav {
  min-height:1em;
  background:#1d1c21;
+ color:#e4decf;
+}
+
+.greedy-nav a {
  color:#e4decf;
 }
 
