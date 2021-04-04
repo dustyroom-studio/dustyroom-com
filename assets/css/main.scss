@@ -73,6 +73,11 @@ sidebar p {
  line-height: 1.1;
 }
 
+.sidebar.sticky {
+ // Avoid sidebar scrolling.
+ overflow-y:visible;
+}
+  
 .grid__item .archive__item-title {
  margin-top:0.5em;
  padding-bottom: 0.15em;

@@ -1,0 +1,27 @@
+{% if page.author_profile or layout.author_profile or page.sidebar %}
+  <div class="sidebar sticky">
+  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if page.sidebar %}
+    {% for s in page.sidebar %}
+      {% if s.image %}
+        <img src="{{ s.image | relative_url }}"
+             alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+      {% endif %}
+      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      {% if s.text %}{{ s.text | markdownify }}{% endif %}
+      {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
+    {% endfor %}
+    {% if page.sidebar.nav %}
+      {% include nav_list nav=page.sidebar.nav %}
+    {% endif %}
+    <a href='https://ko-fi.com/Z8Z523ZDI' target='_blank'><img height='36' width='150' style='border:0px;height:36px;width:150px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy us a coffee' /></a>
+    <form action="https://www.paypal.com/donate" method="post" target="_blank">
+        <input type="hidden" name="cmd" value="_donations">
+        <input type="hidden" name="business" value="G37XR77AQM9MG">
+        <input type="hidden" name="currency_code" value="USD">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" name="submit" title="Donate via PayPal" alt="Donate with PayPal button" border="0">
+    </form>
+    {% include mailchimp.html %}
+  {% endif %}
+  </div>
+{% endif %}
