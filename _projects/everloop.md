@@ -54,7 +54,7 @@ Contents:
   * 20 SFX audio files, also in the responsive key
   * PDF sheet with the track list and descriptions to the parts.
 
-![](https://staging.dustyroom.com/assets/images/everloop-controller-screenshot.jpg)
+![](/assets/images/everloop-controller-screenshot.jpg)
 
 Inspired by the ‘In Bb 2.0’ project — [inbflat.net](http://inbflat.net)  
 [Get Everloop at Unity Asset Store](https://assetstore.unity.com/packages/audio/music/everloop-nonlinear-soundtrack-45205?aid=1101lHzQ&utm_source=aff)  

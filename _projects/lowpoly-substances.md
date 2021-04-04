@@ -23,20 +23,20 @@ Watch the video of the demo scenes and noodling with the shaders included in the
 
 We included many general as well as more specific fire and water models in the asset (camp fire, candle fire etc). Also lots of useful presets of the materials (with the shaders on them) are ready to be dropped onto the models.
 
-![](https://staging.dustyroom.com/assets/images/lowpoly-substances-web-post2.png)  
+![](/assets/images/lowpoly-substances-web-post2.png)  
 
-![](https://staging.dustyroom.com/assets/images/lowpoly-substances-web-post.png)  
+![](/assets/images/lowpoly-substances-web-post.png)  
 
 The materials are highly adjustable. You can make two completely different fires using two (or more) copies of one fire prefab with two materials on each of them.  
 
-![](https://staging.dustyroom.com/assets/images/lowpoly-substances-web-post3.png)
+![](/assets/images/lowpoly-substances-web-post3.png)
 
 **Here is how to apply the shaders to any object:**  
 
 1. Add a model of fire or water to the scene (or any object for that matter)
 2. Create a new material or duplicate one in the Materials folder of the asset
 3. In the shader property of the material select either LowpolySubstances\Fire or LowpolySubstances\Water
-4. Expand the shader properties at the bottom of inspector and tune the parameters to your taste. This step is shown [here](https://youtu.be/hUS8_1_FMpk?t=47s)
+4. Expand the shader properties at the bottom of inspector and tune the parameters to your taste. This step is shown [here](https://youtu.be/hUS8_1_FMpk?t=47s){:target="_blank"}
 
 We didn’t describe all the parameters with text, because it’s tricky to do that for some of them. We think would be quicker for users to turn each parameter on/of and see what it does than read lengthy text. If you need the explanations however, we can make them.
 
@@ -46,8 +46,8 @@ One thing worth explaining about the fire shader is the particles (small sparks 
 3. All those particles have to be in separate quadrants of the XZ plane. It means they shouldn’t be crossed by any axes (see picture below).
 Sounds tricky, but it’s the easiest way to make such particles work in vertex shader. You can of course just use our models that are all set up, or turn off particles for your models by unchecking “Enable particles” in the Fire shader parameters.
 
-![](https://staging.dustyroom.com/assets/images/lowpoly-fire-instructions.png)
+![](/assets/images/lowpoly-fire-instructions.png)
 
-[Campfire Demo (WebGL)](http://dustyroom.com/lowpoly-substances/demo1/)  
-[Customization Demo (WebGL)](http://dustyroom.com/lowpoly-substances/demo2/)  
-[Get Lowpoly Substances at Unity Asset Store](https://assetstore.unity.com/packages/slug/57242?aid=1101lHzQ)  
+[Campfire Demo (WebGL)](http://dustyroom.com/lowpoly-substances/demo1/){:target="_blank"}  
+[Customization Demo (WebGL)](http://dustyroom.com/lowpoly-substances/demo2/){:target="_blank"}  
+[Get Lowpoly Substances at Unity Asset Store](https://assetstore.unity.com/packages/slug/57242?aid=1101lHzQ){:target="_blank"}  

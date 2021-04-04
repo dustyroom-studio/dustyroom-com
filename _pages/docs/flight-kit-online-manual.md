@@ -3,7 +3,7 @@ permalink: /flight-kit-online-manual/
 title: "Flight Kit. Under the Hood (Manual)"
 ---
 
-![](https://staging.dustyroom.com/assets/images/manuals-images/flight-kit/flight-kit-documentation-header.png)
+![](/assets/images/manuals-images/flight-kit/flight-kit-documentation-header.png)
 
 Thank you for your interest in Flight Kit!
 
@@ -73,7 +73,7 @@ The AeroplaneController script exposes a number of properties which determine th
 
 The script responsible for configuring fuel is **FuelController** (screenshot below). It can be found on the **LevelScripts** GameObject. If you don’t need the fuel mechanic, you can turn off this component or remove it from the GameObject. In this case, you also don’t need **FuelUI(-Rect, -Circle, -Dial)** GameObjects in the **UICanvas** (turn them off or remove).  
 
-![](https://staging.dustyroom.com/assets/images/manuals-images/flight-kit/flight-kit-fuel-controller.png)  
+![](/assets/images/manuals-images/flight-kit/flight-kit-fuel-controller.png)  
 
 The parameters exposed by **FuelController** are:  
 
@@ -81,7 +81,7 @@ The parameters exposed by **FuelController** are:
   * **Pickup Fuel Amount** – How much fuel is added by each pickup. Higher number – easier gameplay.
   * **Revive Fuel Amount** – Amount of fuel user receives on reviving.  
 
-![](https://staging.dustyroom.com/assets/images/manuals-images/flight-kit/flight-kit-fuel-ui.png)  
+![](/assets/images/manuals-images/flight-kit/flight-kit-fuel-ui.png)  
 
 There are three kinds of fuel UI out of the box (illustration above): **FuelUICircle (#1), FuelUIDial (#2), FuelUIRect (#3)**. You are free to choose whichever you like most, or equipping different planes with different UI, or even let users earn new UI for their airplanes. To use certain fuel UI just drop one of the prefabs from _FlightKit/Prefabs/FuelUI_ into **UICanvas** GameObject.  
 
@@ -147,15 +147,15 @@ FlightKit uses Unity’s **CrossPlatformInput** to handle the airplane controls.
 
 In order to use these axes, please add following entries to Unity’s input manager:  
 
-![](https://staging.dustyroom.com/assets/images/manuals-images/flight-kit/flight-kit-roll-pitch-yaw.png)  
+![](/assets/images/manuals-images/flight-kit/flight-kit-roll-pitch-yaw.png)  
 
 It’s easier to understand which axis does what from the illustration:  
 
-![](https://staging.dustyroom.com/assets/images/manuals-images/flight-kit/Yaw_Axis_Corrected.png)  
+![](/assets/images/manuals-images/flight-kit/Yaw_Axis_Corrected.png)  
 
 The breaks input can be set up in the following way:  
 
-![](https://staging.dustyroom.com/assets/images/manuals-images/flight-kit/flight-kit-breaks-input.png) 
+![](/assets/images/manuals-images/flight-kit/flight-kit-breaks-input.png) 
 
 The **CrossPlatformInput** class is designed to be called instead of Unity’s own Input class, and so mirrors certain parts of the Input API – specifically the functions relating to Axes and Buttons:  
 
@@ -181,9 +181,9 @@ To use an ad provider different than Unity Ads you need to create a class that e
 
 ---
 
-COLR documentation can be found on [its own page](https://staging.dustyroom.com/colr-online-manual/).
+COLR documentation can be found on [its own page](/colr-online-manual/).
 
 _______
 
 Note, you can use materials that don’t exploit COLR. Airplanes, for instance, use default shader.
-[< Go back to Flight Kit page](https://staging.dustyroom.com/flight-kit)
+[< Go back to Flight Kit page](/flight-kit/)

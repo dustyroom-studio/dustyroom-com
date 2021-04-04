@@ -21,14 +21,14 @@ The level ends when all the people take a ride.
 
 Made for Ludum Dåre 47.  
 
-![](https://staging.dustyroom.com/assets/images/sparvagn-1-TnbgfE.gif)  
+![](/assets/images/sparvagn-1-TnbgfE.gif)  
 
-![](https://staging.dustyroom.com/assets/images/sparvagn-2-TVr6U_.jpg)  
+![](/assets/images/sparvagn-2-TVr6U_.jpg)  
 
-![](https://staging.dustyroom.com/assets/images/sparvagn-3-7MXGGM.jpg)  
+![](/assets/images/sparvagn-3-7MXGGM.jpg)  
 
-[Original Ludum Dare 47 Entry](https://ldjam.com/events/ludum-dare/47/sparvagn)  
-[Download on itch.io — Windows, macOS, Linux](https://dustyroom.itch.io/sparvagn)  
+[Original Ludum Dare 47 Entry](https://ldjam.com/events/ludum-dare/47/sparvagn){:target="_blank"}  
+[Download on itch.io — Windows, macOS, Linux](https://dustyroom.itch.io/sparvagn){:target="_blank"}  
 
 
 

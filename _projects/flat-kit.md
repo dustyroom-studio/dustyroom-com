@@ -52,6 +52,6 @@ The package includes:
   * 20+ material presets
   * 4 additional scripts
 
-[Get an Unity Asset Store](https://assetstore.unity.com/packages/vfx/shaders/flat-kit-cel-toon-shading-143368?aid=1101lHzQ)  
+[Get an Unity Asset Store](https://assetstore.unity.com/packages/vfx/shaders/flat-kit-cel-toon-shading-143368?aid=1101lHzQ){:target="_blank"}  
 
-[Online Manual](https://flatkit.dustyroom.com/)  
+[Online Manual](https://flatkit.dustyroom.com/){:target="_blank"}  

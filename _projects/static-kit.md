@@ -8,13 +8,13 @@ header:
 
 Static Kit is a collection of noise samples primarily designed to mimic the sound coming from analog playback devices, as well as other noises of non-specific origin. There you can find samples reminiscent of vinyl crackle and dust, tape hiss, machinery hum and other warm and pleasant sounding textures. If mixed subtly, these layers can add real world flavor and non-linearity to almost any audio source.  
 
-![](https://staging.dustyroom.com/assets/images/statickit-tapemachine-coverart-1.jpg)
+![](/assets/images/statickit-tapemachine-coverart-1.jpg)
 
 Static Kit samples were created using a handful of hardware synthesizers and effects like Access Virus TI, Moog Sub Phatty, Korg Arp Odyssey, Elektron Digitone, Strymon ElCapistan; virtual signal processing like VCV Rack, Native Instruments Reaktor and Ableton Live. To make sure all the samples are as original as possible, no specialized ‘retro’ / ‘lo-fi’ / ‘vinyl’ and other vibe plugins were used — only creative chains of audio processors.  
 
 
 
-![](https://staging.dustyroom.com/assets/images/statickit-vcvrack_vinyl_noise_patch-1.png)
+![](/assets/images/statickit-vcvrack_vinyl_noise_patch-1.png)
 *Making a vinyl noise patch in VCV Rack*
 
 In a glance:  
@@ -26,15 +26,15 @@ In a glance:
 
 The samples are intentionally significantly louder that they ‘should’ be — for easier audition purpose. Normally, such audio effects are blended into music very quietly.  
 
-Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.
 
 A noise patch on Arp Odyssey:  
 
-![](https://staging.dustyroom.com/assets/images/statickit-ody-noise-patch-photo-1.jpg)
+![](/assets/images/statickit-ody-noise-patch-photo-1.jpg)
 
 <iframe scrolling="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1131258448%3Fsecret_token%3Ds-cU9h03D7nzm&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true" width="100%" height="450" frameborder="no"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dstrm" title="Dustyroom" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener noreferrer">Dustyroom</a> · <a href="https://soundcloud.com/dstrm/sets/static-kit-free/s-cU9h03D7nzm" title="Static Kit - Free" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener noreferrer">Static Kit - Free</a></div>
 
-![](https://staging.dustyroom.com/assets/images/statickit-tapemachine-anotherangle-1.jpg)
+![](/assets/images/statickit-tapemachine-anotherangle-1.jpg)
 
 ## Here are a few ways we'd use these textures.  
 
@@ -46,13 +46,15 @@ A noise patch on Arp Odyssey:
   * Load a few drum samples. On a separate track add a crackling texture. Chop it and arrange it under the drums so that together they sound like sampled from a vinyl record. Resample the audio and slice the recording onto the drum pads. Or just use the resampled drums as audio clips.
   * Load a convolution processor onto a track with a noise sample. Add any short chord sample or a single note snippet as an impulse response file. Lots of cool drones can be made this way. Using various noise textures results in drastically unique drones. Warning, it's addicting.
 
-![](https://staging.dustyroom.com/assets/images/statickit-tapemachine-header-1.jpeg)
+![](/assets/images/statickit-tapemachine-header-1.jpeg)
 
 Download Static Kit completely for free or optionally pay any amount.  
 
 <div style="text-align: center">
 <iframe src="https://itch.io/embed/784884?border_width=2" width="554" height="169" frameborder="0"><a href="https://dustyroom.itch.io/static-kit">Static Kit by Dustyroom</a></iframe>
 </div>
+
+---
 
 Static Kit took a lot of time, effort and expertise to create. Rather than requiring a flat fee for it, we're asking you to donate if you like the project. Any amount helps, thank you! ❤️  
 
