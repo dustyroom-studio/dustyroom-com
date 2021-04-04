@@ -8,5 +8,5 @@ header:
 
 Here you can find the OSTs from some of our games.  
 
-[Bandcamp](https://dustyroom.bandcamp.com/)
-[Soundcloud](http://soundcloud.com/dstrm)
+# [Bandcamp](https://dustyroom.bandcamp.com/){:target="_blank"}
+# [Soundcloud](http://soundcloud.com/dstrm){:target="_blank"}

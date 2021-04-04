@@ -36,5 +36,5 @@ Check out the game or watch a video (which is basically a whole gameplay in less
 
 By the way, if you like the music from the game, you can find the album version of it in album [Colorspacious](http://dustyroom.com/colorspacious-album/) by Polygrim (one of us who does audio), the track in this record is called ‘Oceanic’.  
 
-[Game Entry on LD Jam 45 page](http://ldjam.com/events/ludum-dare/45/soundmarine)  
-[Soundmarine on itch.io](http://dustyroom.itch.io/soundmarine)  
+[Game Entry on LD Jam 45 page](http://ldjam.com/events/ludum-dare/45/soundmarine){:target="_blank"}  
+[Soundmarine on itch.io](http://dustyroom.itch.io/soundmarine){:target="_blank"}  

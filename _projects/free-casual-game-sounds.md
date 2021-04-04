@@ -22,7 +22,10 @@ The pack at a glance:
   * Includes UX / UI sounds
   * 24-bit WAV format, 44.1 kHz Stereo  
 
-[Get Here at Unity Asset Store](https://www.assetstore.unity3d.com/#!/content/54116?aid=1101lHzQ){:target="_blank"}  
+### [Get Here at Unity Asset Store](https://www.assetstore.unity3d.com/#!/content/54116?aid=1101lHzQ){:target="_blank"}  
 
-If you don’t use Unity, please [download the pack here](https://secureservercdn.net/50.62.198.70/157.58a.myftpupload.com/casualgamesounds/DM-CGS.zip){:target="_blank"}
+If you don’t use Unity, you can still [download the pack here](https://secureservercdn.net/50.62.198.70/157.58a.myftpupload.com/casualgamesounds/DM-CGS.zip).{:target="_blank"}
 
+#### Subscribe to get notified about our upcoming freebies ❤️  
+{% include mailchimp.html %}
+ 

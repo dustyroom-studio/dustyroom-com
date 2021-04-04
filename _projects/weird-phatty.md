@@ -32,15 +32,9 @@ Specs:
 ---
 
 Liked this sample pack? Please consider donating. 
-
-<form action="https://www.paypal.com/donate" method="post" target="_blank">
-<input type="hidden" name="cmd" value="_donations">
-<input type="hidden" name="business" value="G37XR77AQM9MG">
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" name="submit" title="Donate via PayPal" alt="Donate with PayPal button" border="0">
-<img alt="" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" border="0">
-</form>
-
-<a href="https://ko-fi.com/Z8Z523ZDI" target="_blank" rel="noopener noreferrer"><img style="border:0px;height:36px;" src="https://cdn.ko-fi.com/cdn/kofi5.png?v=2" alt="Buy Us a Coffee" height="36" border="0"></a>
+{% include donate.html %}
 
 ---
+
+#### Subscribe to get notified about our upcoming freebies ❤️  
+{% include mailchimp.html %}
