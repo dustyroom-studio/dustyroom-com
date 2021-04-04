@@ -12,8 +12,10 @@ Static Kit is a collection of noise samples primarily designed to mimic the soun
 
 Static Kit samples were created using a handful of hardware synthesizers and effects like Access Virus TI, Moog Sub Phatty, Korg Arp Odyssey, Elektron Digitone, Strymon ElCapistan; virtual signal processing like VCV Rack, Native Instruments Reaktor and Ableton Live. To make sure all the samples are as original as possible, no specialized ‘retro’ / ‘lo-fi’ / ‘vinyl’ and other vibe plugins were used — only creative chains of audio processors.  
 
-Making a vinyl noise patch in VCV Rack:  
+
+
 ![](https://staging.dustyroom.com/assets/images/statickit-vcvrack_vinyl_noise_patch-1.png)
+*Making a vinyl noise patch in VCV Rack*
 
 In a glance:  
   * 46 samples of artificial noise, pops, crackle etc

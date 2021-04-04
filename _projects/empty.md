@@ -18,7 +18,7 @@ The [original soundtrack](https://dustyroom.bandcamp.com/album/empty-ost) was co
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2073725311/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://dustyroom.bandcamp.com/album/empty-ost">Empty. OST by Dustyroom</a></iframe>  
 
-We have been working on Empty. since the [game prototype](https://staging.dustyroom.com/empty-game-ldjam/) took the first place at the [Ludum Dare 37](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=33150) competition in December 2016, where it took **the first place in “Overall” category** (Jam). In its prototype form the game has gained many positive reviews on [Itch.io](https://dustyroom.itch.io/empty).  
+We have been working on Empty. since the [game prototype](/empty-game-ldjam/) took the first place at the [Ludum Dare 37](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=33150) competition in December 2016, where it took **the first place in “Overall” category** (Jam). In its prototype form the game has gained many positive reviews on [Itch.io](https://dustyroom.itch.io/empty).  
 
 ![](https://staging.dustyroom.com/assets/images/empty_screenshot_level_ny.png)  
 
@@ -49,7 +49,7 @@ If you are press and would like to cover Empty., you can use these [promo materi
 
 [MacOS, Windows, WebGL versions on Itch.io](https://dustyroom.itch.io/empty)  
 
-![](https://staging.dustyroom.com/assets/images/empty_art_3-1024x440.png)  
+![](/assets/images/empty_art_3-1024x440.png)  
 
 If you liked “Empty.”, please consider donating.  
 
