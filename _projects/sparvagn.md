@@ -4,6 +4,7 @@ title: "Spårvagn"
 header:
   image:  /assets/images/teaser-header.png
   teaser: assets/images/sparvagn.png
+date: 2020-10-20
 ---
 
 “Creating a safer commute for the many people.”  

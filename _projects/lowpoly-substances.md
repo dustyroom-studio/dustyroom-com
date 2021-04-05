@@ -4,6 +4,7 @@ title: "Lowpoly Substances"
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/lowpoly-substances.png
+date: 2016-03-09
 ---
 
 Lowpoly Substances is a set of shaders, materials and models that make stylized animations of fire and water (more substances to come). With Lowpoly Substances you can add stylish animated elements to your game without sacrificing performance.

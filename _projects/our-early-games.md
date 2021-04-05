@@ -4,6 +4,7 @@ title: "Our-Early-Games"
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/our-early-games.png
+date: 2010-01-01
 ---
 
 A museum of our early projects.  

@@ -4,6 +4,7 @@ title: "Powernode"
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/powernode.png
+date: 2018-01-01
 ---
 
 A game about being in a flow.  

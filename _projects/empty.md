@@ -4,6 +4,7 @@ title: "Empty."
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/empty.png
+date: 2020-09-25
 ---
 
 “Empty.” is a minimalist zen puzzle game that teaches value of simplicity in life. The goal is to remove all objects by rotating a room.  

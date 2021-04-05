@@ -4,6 +4,7 @@ title: "Casual Game Music Pack"
 header:
   image:  /assets/images/teaser-header.png
   teaser: assets/images/casual-game-music-pack.png
+date: 2015-01-01
 ---
 
 Casual Game Music Pack is the complete solution for all sound in your casual game. Both music and sound effects are carefully designed to make gameplay more fun without distracting the player. Made with professional sound production equipment and software, this package is a great deal for the price.

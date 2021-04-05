@@ -4,6 +4,7 @@ title: "Colr: Coloring Redefined"
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/colr.png
+date: 2016-03-15
 ---
 
 Colr is the set of shaders designed to make coloring of objects quick and easy. Colr helps you achieve stylish and consistent look for your game by letting you select colors of material sides directly, bypassing lighting.

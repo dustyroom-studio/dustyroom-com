@@ -4,6 +4,7 @@ title: "Soundmarine"
 header:
   image:  /assets/images/teaser-header.png
   teaser: assets/images/soundmarine.png
+date: 2019-06-01
 ---
 
 Soundmarine came out as the short (actually, very short) music-driven game-experience. We decided to try to make a game in a distinct visual style reminiscent of the works of Jean Giraud aka Moebius.  

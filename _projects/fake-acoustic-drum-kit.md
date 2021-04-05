@@ -4,6 +4,7 @@ title: "Fake Acoustic Drum Kit"
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/fake-acoustic-drum-kit.png
+date: 2019-01-01
 ---
 
 A synth pretending to be the drummer.  

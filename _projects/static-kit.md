@@ -4,6 +4,7 @@ title: "Static Kit"
 header:
   image:  /assets/images/teaser-header.png
   teaser: assets/images/static-kit.png
+date: 2020-09-10
 ---
 
 Static Kit is a collection of noise samples primarily designed to mimic the sound coming from analog playback devices, as well as other noises of non-specific origin. There you can find samples reminiscent of vinyl crackle and dust, tape hiss, machinery hum and other warm and pleasant sounding textures. If mixed subtly, these layers can add real world flavor and non-linearity to almost any audio source.  

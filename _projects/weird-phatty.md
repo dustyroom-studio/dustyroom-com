@@ -4,6 +4,7 @@ title: "Weird Phatty"
 header:
   image:  /assets/images/teaser-header.png
   teaser: assets/images/weird-phatty.png
+date: 2019-09-10
 ---
 
 Weird Phatty is a collection of highly unpredictable and totally unusable audio phrases recorded straight from the great little analog synth. The samples are mostly atonal, ranging from very quiet hiss and crackle to resonant sweeps and pseudo-sequenced riffs. The sound was made with one finger pressed one key.  

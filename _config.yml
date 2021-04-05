@@ -44,6 +44,7 @@ plugins:
   - jekyll-include-cache
 
 author:
+  title:
   logo: "/assets/images/dr-logo-light-transp.png"
   avatar : "/assets/images/dr-logo-light-transp.png"
   bio    : "**Dustyroom** makes games / music / assets / interactive experiences."

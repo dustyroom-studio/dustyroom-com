@@ -4,6 +4,7 @@ title: "Aeroteque"
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/aeroteque.png
+date: 2016-04-10
 ---
 
 A game where the pie charts can be fun.  

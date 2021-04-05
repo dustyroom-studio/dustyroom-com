@@ -4,6 +4,7 @@ title: "Flight Kit"
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/flight-kit.png
+date: 2016-02-19
 ---
 
 Flight Kit is a complete flight simulator with emphasis on great look and fun gameplay.  
