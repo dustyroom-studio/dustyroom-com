@@ -56,6 +56,20 @@ a {
  margin:0 0 1em;
 }
 
+@media (min-width: 64em) {
+ .sidebar {
+  float:left;
+  width:calc(200px - 1em);
+  opacity:1;
+  -webkit-transition:opacity 0.2s ease-in-out;
+  transition:opacity 0.2s ease-in-out
+ }
+
+.sidebar {
+ clear:both;
+ margin-bottom: 400px;
+}
+
 .sidebar li {
  font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
  font-size:.7em;
@@ -84,6 +98,10 @@ sidebar p {
  font-size:0.8em;
 }
 
+.grid__item {
+ margin-bottom:0.5em
+}
+
 @media (min-width: 48em) {
  .grid__item .archive__item-excerpt {
   display:block;
@@ -93,7 +111,13 @@ sidebar p {
 
 @media (min-width: 48em) {
  .grid__item .archive__item-teaser {
-  max-height:200px
+  max-height:250px
+ }
+}
+
+@media (min-width: 37.5em) {
+ .grid__item .archive__item-teaser {
+  max-height:350px
  }
 }
 
