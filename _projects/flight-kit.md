@@ -12,7 +12,7 @@ Flight Kit is a complete flight simulator with emphasis on great look and fun ga
 
 Features
 
-  * Includes shaders from COLR – a set of custom shaders for full control of colors.
+  * **Includes shaders from [COLR](http://dustyroom.com/colr){:target="_blank"}** – a set of custom shaders for full control of colors.
   * Optimized for performance: runs smoothly on standalone, mobile and WebGL.
   * Based on Unity’s Aeroplane Controller which makes it compatible with everything included in the Standard Assets.
   * Ready airplane controls with schemes for keyboard and touch inputs.
@@ -30,9 +30,9 @@ What’s Included
   * 49 UI sprites.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f6_qJygYtKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
- 
+\
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0kaIita6Od4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
+\
 [Demo (Collect)](http://dustyroom.com/flight-kit/demo/)  
 [Demo (Fuel)](http://dustyroom.com/flight-kit/demo2/)  
 [Documentation](/flight-kit-online-manual/)  

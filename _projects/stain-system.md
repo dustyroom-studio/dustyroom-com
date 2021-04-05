@@ -23,7 +23,7 @@ Splatter System at a glance:
   * Custom shapes support
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qIaVUO0xoxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+\
 ![](/assets/images/stain-system-01.gif)
 
 Screenshots of the demo scenes:  

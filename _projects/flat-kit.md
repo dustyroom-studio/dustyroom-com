@@ -11,7 +11,7 @@ date: 2019-04-10
 Flat Kit is a complete solution to achieve the stylish cel-shaded look: shaders, models, image effects, presets, examples.
 The custom shading model is versatile enough to work great for classic cel/toon shading and for unique styles of experimental projects.
 
-Features:
+**Features:**
 
   * Polished Cel shading with lots of capabilities (see below)
   * Gradient fog: Multi-stop horizontal/vertical gradient Fog Image Effect
@@ -30,10 +30,10 @@ Features:
   * Elaborated online manual
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sc838YuWPhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+\
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N3H_AFKaMUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Core Cel shader overview:
+\
+**Core Cel shader overview:**
 
   * Cel shading with parametric banding: single, steps, curve
   * Two independent cel layers
@@ -44,7 +44,7 @@ Core Cel shader overview:
   * Normal map support
   * Reusable custom lighting in a .cginc file that you can integrate in your shaders (not required).
 
-The package includes:
+**The package includes:**
 
   * 4 uber-shaders with lots of toggles and parameters
   * Custom lighting library for toon shading

@@ -9,14 +9,14 @@ date: 2018-01-01
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WbGspQ1diNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+\
 Before the Ludum Dare jam, we planned to make an action-packed juicy pixel platformer. In the end, we made a calm abstract puzzle game. Beauty of LD!  
 
 Every idea we had for a platformer wasn’t very interesting, so we started thinking about making game about logistics as our entry. Inspired by the great Factorio and Mini Metro, we tried to extract production belts and manufacturing into a simple innovative puzzle.  
 
 This resulted in Supernode, a game where you make a flow of energy by combining nodes to produce the right output from multiple sources.  
 
-In short, here’s how it went.
+In short, here’s how it went (3 days of making the game).
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="t3SF5JK"><a href="//imgur.com/t3SF5JK"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>  
 
@@ -35,17 +35,13 @@ Making the simple 2d assets spared some time to for go sound more. We made a sim
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/mUDIc"><a href="//imgur.com/mUDIc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>  
 
-There are plenty of things to improve. Anyway, we are happy how the game turned out.  
-
-P.S.
-After receiving some useful bits of feedback we made (and still make) some major and minor improvements and placed the post-compo version of the game on itch.io. The [jam WebGL version](http://dustyroom.com/ld39/supernode){:target="_blank"} stays untouched.  
-
 Have fun!  
 
 [Our Ludum Dare contest entry page](https://ldjam.com/events/ludum-dare/39/supernode){:target="_blank"}  
 [Game with fixes on itch.io](https://dustyroom.itch.io/supernode){:target="_blank"}  
 
-Long after a [Ludum Dare entry](http://dustyroom.com/supernode-ld39-entry/){:target="_blank"} in 2017 to the full release. The game went through some changes, including adopting a new name. We’re very happy to have partnered with [Opal Games](http://opalgames.fr/){:target="_blank"} to publish this game.. We partnered with Opal Games, who released Powernode to the iOS and Android devices. Later the game got featured as “Game of the Day” on the App Store.
+---
+Some time after a [Ludum Dare entry](http://dustyroom.com/supernode-ld39-entry/){:target="_blank"} in 2017 the game went through some changes, including adopting a new name. We’re very happy to have partnered with [Opal Games](http://opalgames.fr/){:target="_blank"} to publish this game.. We partnered with Opal Games, who released Powernode to the iOS and Android devices. Later the game got featured as “Game of the Day” on the App Store.
 
 [![Download on the App Store](/assets/images/appstore_button_download.png "Download on the App Store")](https://apps.apple.com/us/app/powernode/id1339814815){:target="_blank"}
 [![Get It on Google Play](/assets/images/google-play-badge-1.png "Get It on Google Play")](https://play.google.com/store/apps/details?id=com.dustyroom.supersum){:target="_blank"}  

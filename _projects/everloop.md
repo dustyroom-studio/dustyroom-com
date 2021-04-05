@@ -23,7 +23,7 @@ The beauty of the idea is that you decide how your continuous soundtrack is goin
 Listen to random rips, which were captured while playing with Everloop, as well as SFX previews on [Soundcloud](https://soundcloud.com/dstrm/sets/everloop-never-ending-soundtrack-suite)  
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/141110127&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dstrm" title="Dustyroom" target="_blank" style="color: #cccccc; text-decoration: none;">Dustyroom</a> · <a href="https://soundcloud.com/dstrm/sets/everloop-never-ending-soundtrack-suite" title="Everloop - Non-linear Soundtrack Suite" target="_blank" style="color: #cccccc; text-decoration: none;">Everloop - Non-linear Soundtrack Suite</a></div>
-
+\
 Watch the video of toying with the Demo of the early version:  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zU0WFwDfaYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

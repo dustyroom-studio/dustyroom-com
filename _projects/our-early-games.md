@@ -26,13 +26,13 @@ Stunt Rush is an arcade racing game that combines the intense survival action wi
   * Not a pay-to-win game. Your purchases are kind donations, you don’t have to buy anything!  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vcEcihRuEx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
+\
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qHBhlbhcJ4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+\
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DzY1_FejezY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+\
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1HQjah1Ms3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+\
 Also feel free to [download a free OST](https://dustyroom.bandcamp.com/album/stunt-rush-ost) from the game.  
 
 ![](/assets/images/early-games/stunt_rush-music_cover.jpg)  
@@ -43,6 +43,7 @@ This game was our first attempt to make a 3d game.
 Our first game that made it to the stores. A bubble shooter with a twist.  
 
 ![](/assets/images/early-games/bubbletwist_thumb1.png)  
+\
 ![](/assets/images/early-games/bubbletwist_page_img.png)  
 
 ### Bingo

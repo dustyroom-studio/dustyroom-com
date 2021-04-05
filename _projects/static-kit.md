@@ -28,14 +28,12 @@ In a glance:
 
 The samples are intentionally significantly louder that they ‘should’ be — for easier audition purpose. Normally, such audio effects are blended into music very quietly.  
 
-Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.
+Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
 
 ![](/assets/images/statickit-ody-noise-patch-photo-1.jpg)
 *A noise patch on Arp Odyssey*
 
 <iframe scrolling="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1131258448%3Fsecret_token%3Ds-cU9h03D7nzm&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true" width="100%" height="450" frameborder="no"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dstrm" title="Dustyroom" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener noreferrer">Dustyroom</a> · <a href="https://soundcloud.com/dstrm/sets/static-kit-free/s-cU9h03D7nzm" title="Static Kit - Free" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener noreferrer">Static Kit - Free</a></div>
-
-\
 
 ![](/assets/images/statickit-tapemachine-anotherangle-1.jpg)
 
