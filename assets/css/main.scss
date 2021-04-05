@@ -172,13 +172,6 @@ form {
  color:#e4decf;
 }
 
-.author__avatar {
- display:table-cell;
- vertical-align:top;
- width:36px;
- height:36px
-}
-
 .page__meta,
 .comment__date {
  margin-top:2em;
@@ -194,6 +187,13 @@ form {
   line-height: 2.5em;
 }
 
+.author__avatar {
+ display:table-cell;
+ vertical-align:top;
+ width:36px;
+ height:36px
+}
+
 @media (min-width: 64em) {
  .author__avatar {
   display:block;
@@ -203,8 +203,9 @@ form {
 }
 .author__avatar img {
  max-width:100px;
- border-radius:50%
+ border-radius:50%;
 }
+
 @media (min-width: 64em) {
  .author__avatar img {
   padding:0px;

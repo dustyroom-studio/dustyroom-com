@@ -11,7 +11,7 @@ date: 2019-06-01
 Soundmarine came out as the short (actually, very short) music-driven game-experience. We decided to try to make a game in a distinct visual style reminiscent of the works of Jean Giraud aka Moebius.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GdnfOiPtmDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
+\
 **The idea on paper.** The player starts steering the submarine on a barely filled screen (the objects are in outlines only), in complete silence and collects sound-emitting objects resulting in a semi-random musical piece. The sounds are fading and you have to keep picking them to stay afloat. The world around gradually becomes more dense. Then there is a board with all the sounds in the end menu that you can switch on/off.
 
 ![](/assets/images/soundmarine-1-29570.png)  
@@ -35,7 +35,7 @@ _The gameplay_ in a jam version is a bit bare. There were bugs when the submarin
 Check out the game or watch a video (which is basically a whole gameplay in less than 3 min).  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/om80uA44I5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+\
 By the way, if you like the music from the game, you can find the album version of it in album [Colorspacious](http://dustyroom.com/colorspacious-album/) by Polygrim (one of us who does audio), the track in this record is called ‘Oceanic’.  
 
 [Game Entry on LD Jam 45 page](http://ldjam.com/events/ludum-dare/45/soundmarine){:target="_blank"}  
