@@ -13,15 +13,17 @@
     {% endfor %}
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
+    
+      <a href='https://ko-fi.com/Z8Z523ZDI' target='_blank'><img height='36' width='150' style='border:0px;height:36px;width:150px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy us a coffee' /></a>
+      <form action="https://www.paypal.com/donate" method="post" target="_blank">
+          <input type="hidden" name="cmd" value="_donations">
+          <input type="hidden" name="business" value="G37XR77AQM9MG">
+          <input type="hidden" name="currency_code" value="USD">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" name="submit" title="Donate via PayPal" alt="Donate with PayPal button" border="0">
+      </form>
+      {% include mailchimp.html %}
+
     {% endif %}
-    <a href='https://ko-fi.com/Z8Z523ZDI' target='_blank'><img height='36' width='150' style='border:0px;height:36px;width:150px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy us a coffee' /></a>
-    <form action="https://www.paypal.com/donate" method="post" target="_blank">
-        <input type="hidden" name="cmd" value="_donations">
-        <input type="hidden" name="business" value="G37XR77AQM9MG">
-        <input type="hidden" name="currency_code" value="USD">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" name="submit" title="Donate via PayPal" alt="Donate with PayPal button" border="0">
-    </form>
-    {% include mailchimp.html %}
   {% endif %}
   </div>
 {% endif %}
