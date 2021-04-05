@@ -48,6 +48,10 @@ If you are press and would like to cover *Empty.*, you can use these [promo mate
 [![Download on the App Store](/assets/images/appstore_button_download.png "Download on the App Store")](https://apps.apple.com/app/id1191062782){:target="_blank"}
 [![Get It on Google Play](/assets/images/google-play-badge-1.png "Get It on Google Play")](https://play.google.com/store/apps/details?id=com.dustyroom.Empty){:target="_blank"}  
 
+<div class="image-link">
+<a href="https://apps.apple.com/app/id1191062782" class="image-link" target="_blank"><img src="/assets/images/appstore_button_download.png"></a>
+</div>
+
 [MacOS, Windows, WebGL versions on Itch.io](https://dustyroom.itch.io/empty){:target="_blank"}  
 
 ![](/assets/images/empty_art_3-1024x440.png)  
