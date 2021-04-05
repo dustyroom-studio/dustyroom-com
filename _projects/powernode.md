@@ -43,5 +43,11 @@ Have fun!
 ---
 Some time after a [Ludum Dare entry](http://dustyroom.com/supernode-ld39-entry/){:target="_blank"} in 2017 the game went through some changes, including adopting a new name. We’re very happy to have partnered with [Opal Games](http://opalgames.fr/){:target="_blank"} to publish this game.. We partnered with Opal Games, who released Powernode to the iOS and Android devices. Later the game got featured as “Game of the Day” on the App Store.
 
-[![Download on the App Store](/assets/images/appstore_button_download.png "Download on the App Store")](https://apps.apple.com/us/app/powernode/id1339814815){:target="_blank"}
-[![Get It on Google Play](/assets/images/google-play-badge-1.png "Get It on Google Play")](https://play.google.com/store/apps/details?id=com.dustyroom.supersum){:target="_blank"}  
+
+<div class="image-link">
+<a href="https://apps.apple.com/us/app/powernode/id1339814815" class="image-link" target="_blank"><img src="/assets/images/appstore_button_download.png"></a>
+</div> 
+
+<div class="image-link">
+<a href="https://play.google.com/store/apps/details?id=com.dustyroom.supersum" class="image-link" target="_blank"><img src="/assets/images/google-play-badge-1.png"></a>
+</div> 
