@@ -1,6 +1,7 @@
 ---
 permalink: /stain-system/
 title: "Stain System"
+excerpt: "Efficient decal system for Unity."
 header:
   image:  /assets/images/teaser-header.png
   teaser: assets/images/stain-system.png

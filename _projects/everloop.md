@@ -1,6 +1,7 @@
 ---
 permalink: /everloop/
 title: "Everloop"
+excerpt: "Infinite atmospheric soundtrack."
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/everloop.png

@@ -1,13 +1,12 @@
 ---
 permalink: /powernode/
 title: "Powernode"
+excerpt: "A game about being in a flow."
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/powernode.png
 date: 2018-01-01
 ---
-
-A game about being in a flow.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WbGspQ1diNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,6 +1,7 @@
 ---
 permalink: /colr/
 title: "Colr: Coloring Redefined"
+excerpt: "Lowpoly shaders Unity asset."
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/colr.png

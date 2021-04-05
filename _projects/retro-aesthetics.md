@@ -1,6 +1,7 @@
 ---
 permalink: /retro-aesthetics/
 title: "Retro Aesthetics"
+excerpt: "80's inspired Unity Asset."
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/retro-aesthetics.png

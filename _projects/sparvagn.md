@@ -1,6 +1,7 @@
 ---
 permalink: /sparvagn/
 title: "Spårvagn"
+excerpt: "Ludum Dare 47 entry."
 header:
   image:  /assets/images/teaser-header.png
   teaser: assets/images/sparvagn.png
@@ -10,7 +11,6 @@ date: 2020-10-20
 “Creating a safer commute for the many people.”  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/usIMhdKetg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 Rules:
   * Click on trams to stop / launch them.

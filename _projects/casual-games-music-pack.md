@@ -1,6 +1,7 @@
 ---
 permalink: /casual-game-music-pack/
 title: "Casual Game Music Pack"
+excerpt: "Bright tracks for casual games."
 header:
   image:  /assets/images/teaser-header.png
   teaser: assets/images/casual-game-music-pack.png

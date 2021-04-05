@@ -1,6 +1,7 @@
 ---
 permalink: /static-kit/
 title: "Static Kit"
+excerpt: "Atmospheric noise samples."
 header:
   image:  /assets/images/teaser-header.png
   teaser: assets/images/static-kit.png

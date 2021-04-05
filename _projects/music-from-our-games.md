@@ -1,6 +1,7 @@
 ---
 permalink: /music-from-our-games/
 title: "Music From Our Games"
+excerpt: "On Bandcamp and Soundcloud."
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/music-from-our-games.png

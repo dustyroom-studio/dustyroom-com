@@ -1,6 +1,7 @@
 ---
 permalink: /flight-kit/
 title: "Flight Kit"
+excerpt: "Arcade flight sim Unity asset."
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/flight-kit.png

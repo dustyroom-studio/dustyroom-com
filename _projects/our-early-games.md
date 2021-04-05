@@ -1,6 +1,7 @@
 ---
 permalink: /our-early-games/
 title: "Our-Early-Games"
+excerpt: "Please don't judge."
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/our-early-games.png

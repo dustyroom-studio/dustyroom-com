@@ -1,16 +1,19 @@
 ---
 permalink: /aeroteque/
 title: "Aeroteque"
+excerpt: "Musical AR game."
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/aeroteque.png
-date: 2016-04-10
+date: 2016-01-01
 ---
 
 A game where the pie charts can be fun.  
 
 ![](/assets/images/aeroteque-img-1.png)  
-\
+
+<br/>
+
 We are glad to announce that we are releasing **full source of Aeroteque on GitHub**!  
 
 The game grew quite a bit since Ludum Dare, evolving into both VR and Google Tango experience. In the Unity project, the original desktop gameplay is preserved and can be found in the GameplayDesktop scene, while the Google Tango motion tracking powered and optionally Cardboard VR gameplay can be found in GameplayTango scene.  

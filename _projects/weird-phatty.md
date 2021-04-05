@@ -1,6 +1,7 @@
 ---
 permalink: /weird-phatty/
 title: "Weird Phatty"
+excerpt: "Versatile analog synth samples."
 header:
   image:  /assets/images/teaser-header.png
   teaser: assets/images/weird-phatty.png

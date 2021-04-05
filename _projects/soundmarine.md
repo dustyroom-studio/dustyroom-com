@@ -1,6 +1,7 @@
 ---
 permalink: /soundmarine/
 title: "Soundmarine"
+excerpt: "Ludum Dare 45 entry."
 header:
   image:  /assets/images/teaser-header.png
   teaser: assets/images/soundmarine.png

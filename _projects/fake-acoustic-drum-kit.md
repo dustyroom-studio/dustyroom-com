@@ -1,15 +1,16 @@
 ---
 permalink: /fake-acoustic-drum-kit/
 title: "Fake Acoustic Drum Kit"
+excerpt: "A synth pretending to be the drummer."
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/fake-acoustic-drum-kit.png
 date: 2019-01-01
 ---
 
-A synth pretending to be the drummer.  
-
 ![](/assets/images/fadk-cover-dark-wide.png)
+
+#### A synth pretending to be the drummer.  
 
 We wanted new drum sounds for our own projects. They turned out more interesting than we expected. So we decided to share them with you. For those just starting out in music production, having sound kits to experiment with features as essential items on many [music production guidelines for beginners](https://www.reliablecounter.com/blog/5-electronic-music-production-guidelines-for-beginners/) lists. So, you know, you’re welcome. Please meet Fake Acoustic Drum Kit, conventional to you, unusual for FM.  
 

@@ -1,6 +1,7 @@
 ---
 permalink: /free-casual-game-sounds/
 title: "Free Casual Game Sounds"
+excerpt: "Hand-crafted sound effects."
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/free-casual-game-sounds.png

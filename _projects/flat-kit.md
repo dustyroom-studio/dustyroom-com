@@ -1,6 +1,7 @@
 ---
 permalink: /flat-kit/
 title: "Flat Kit: Toon Shading and Water"
+excerpt: "Stylized shaders Unity asset."
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/flat-kit.png

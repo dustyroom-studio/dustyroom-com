@@ -1,6 +1,7 @@
 ---
 permalink: /empty/
 title: "Empty."
+excerpt: "Everything must go."
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/empty.png
