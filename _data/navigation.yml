@@ -7,10 +7,12 @@ project-groups:
     children:
       - title: "Flat Kit"
         url: /flat-kit
-      - title: "Flight Kit"
-        url: /flight-kit
+      - title: "Retro Aesthetics"
+        url: /retro-aesthetics
       - title: "COLR"
         url: /colr
+      - title: "Flight Kit"
+        url: /flight-kit
       - title: "Casual Game Music Pack"
         url: /casual-game-music-pack
       - title: "Stain System"
@@ -19,8 +21,6 @@ project-groups:
         url: /everloop
       - title: "Lowpoly Substances"
         url: /lowpoly-substances
-      - title: "Retro Aesthetics"
-        url: /retro-aesthetics
   - title: "Games"
     children:
       - title: "Empty."
