@@ -51,14 +51,20 @@ author:
   home: "/"
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/_dstrm"
 
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/_dstrm"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/dustyroomgames"
+    - label: "Bandcamp"
+      icon: "fab fa-fw fa-bandcamp"
+      url: "https://dustyroom.bandcamp.com"
 
 defaults:
   # _pages
