@@ -154,8 +154,8 @@ form {
     font-weight: bold;
     text-transform: uppercase;
     border: 1px solid #e4decf;
-//    color: #1d1c21;
-//    background-color: #e4decf;
+/*  color: #1d1c21;*/
+/*  background-color: #e4decf;*/
 }
 
 .search__toggle {
@@ -179,12 +179,13 @@ form {
  height:36px
 }
 
+.page__meta,
 .comment__date {
  margin-top:2em;
  color:#fff8fc;
  font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
  font-size:.75em;
- display:none;
+  display:none;
 }
 
 .page__content a:not(.btn){
@@ -206,8 +207,8 @@ form {
 }
 @media (min-width: 64em) {
  .author__avatar img {
-  //padding:5px;
-  //border:1px solid #434040
+  /*padding:5px;*/
+  /*border:1px solid #434040*/
  }
 }
 
