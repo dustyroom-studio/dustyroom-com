@@ -1,6 +1,10 @@
 ---
 permalink: /flight-kit-online-manual/
 title: "Flight Kit. Under the Hood (Manual)"
+toc: true
+toc_label: "Contents"
+toc_icon: "book"
+toc_sticky: true
 ---
 
 ![](/assets/images/manuals-images/flight-kit/flight-kit-documentation-header.png)
@@ -9,19 +13,7 @@ Thank you for your interest in Flight Kit!
 
 This is the comprehensive **guide using Flight Kit**, a complete package flight simulator indie game. Here you will find the information that will help you figure out how to adjust the Kit for your own needs and preferences.
 
-### Contents
-
-1. Getting Started
-2. Creating a Scene
-3. Chaining Levels
-4. Adding new Airplanes
-5. Configuring Fuel Mechanic
-6. Menus, UI and Events
-7. Standalone & Mobile Controls
-8. Managing Ads
-9. COLR. Managing Colors and Gradients
-
-## Getting Started
+# Getting Started
 
 Flight Kit has three root-level folders:
 
@@ -33,7 +25,7 @@ The COLR and FlightKit folders are split internally into folders by asset types.
 
 To start working with the package you can either modify the existing **ExampleLevel** or **MinimalSetup** scenes (located at _FlightKit/Scenes/_) or create a new scene and drop the needed prefabs into it (explained in the next section). If you choose to start with an existing scene, we recommend duplicating it before modifying, since it will be updated in the upcoming Flight Kit releases.
 
-## Creating a Scene
+# Creating a Scene
 
 Anything with colliders will work as environment. Any external models or packages that generate meshes can also be used with no additional set up.  
 
@@ -48,11 +40,11 @@ If you would like to create a scene from scratch or add flight capabilities to a
 5. Drop the **LevelScripts** prefab into the scene. It contains all scripts that control the game flow. You probably also want to check _‘Play On Start’_ on the **Start Level Controller** script. If you would like to have the provided menus on your level, use the **UICanvas** prefab instead of the **LevelScripts** prefab.
 6. **Hit play!** Your plane should take off and you should be able to fly around!
 
-## Chaining Levels
+# Chaining Levels
 
 Attaching scenes to other scenes is defined in the **LevelCompleteController** class (you can find it in hierarchy: UICanvas -> LevelScripts). The default behavior is meant to be overridden in the only method of this class, **HandleLevelComplete**. What actions need to be performed when the player wins a level is up to you – it heavily depends on what game you are making. That’s why the default behavior is just restarting the current scene.  
 
-## Adding New Airplanes
+# Adding New Airplanes
 
 To set up your own airplane from scratch, use the following steps:  
 
@@ -69,7 +61,7 @@ You can then mix and match the other optional components to add features such as
 
 The AeroplaneController script exposes a number of properties which determine the power and handling of the aircraft, however ultimately the script is designed to provide a fun arcade game-like feel rather than attempting to be a realistic simulation of aircraft aerodynamics. It is possible to set up aircraft that will glide and stall, but ultimately the emphasis is on performance and fun rather than realism.  
 
-## Configuring Fuel Mechanic
+# Configuring Fuel Mechanic
 
 The script responsible for configuring fuel is **FuelController** (screenshot below). It can be found on the **LevelScripts** GameObject. If you don’t need the fuel mechanic, you can turn off this component or remove it from the GameObject. In this case, you also don’t need **FuelUI(-Rect, -Circle, -Dial)** GameObjects in the **UICanvas** (turn them off or remove).  
 
@@ -87,7 +79,7 @@ There are three kinds of fuel UI out of the box (illustration above): **FuelUICi
 
 Of course, you can add your own FuelUI. For this, in your script you can find the object of type **FuelController** and render fuel amount depending on its **fuelAmount** field. Check out the file **FuelProgressBarRect.cs** for an example.  
 
-## Menus, UI and Events
+# Menus, UI and Events
 
 All User Inteface in Flight Kit is made with the standard Unity GUI and do not require any additional assets.  
 
@@ -128,7 +120,7 @@ void OnPlayClicked() {
 }
 ```
 
-## Standalone & Mobile Controls
+# Standalone & Mobile Controls
 
 To switch from **Standalone to Mobile controls** you need to change the build platform of Unity to the desired mobile platform and go to menu **Mobile Input -> Enable**. This will switch on the MobileUI and the corresponding Controls Menu elements to tilt and touch controls. While testing the game in Unity Editor, you can disable Mobile Input to control the airplane with the keyboard.  
 To **switch from mobile to standalone controls** you only need to change Unity build target to a standalone platform.  
@@ -165,7 +157,7 @@ GetAxis, GetAxisRaw, GetButton, GetButtonDown, GetButtonUp
 
 When reading input from the CrossPlatformInput class, the values returned will be taken either from Unity’s Input Manager settings, or from the mobile-specific controls set up, depending on which build target you have selected. For example, when you read CrossPlatformInput.GetAxis(“Yaw”), you will either get the “real” input value – if your build target is non-mobile, or the value from the mobile control rig – if your build target is set to a mobile platform.  
 
-## Managing Ads
+# Managing Ads
 
 Ads are completely optional in Flight Kit. If you don’t need them in your project, you can simply handle **RevivePermissionProvider.OnReviveRequestEvent** somewhere in your code. You can do anything – charge in-game currency, show microtransaction dialog, or remove reviving completely (in this case, you would listen to **FuelController.OnFuelEmptyEvent** and handle it as level fail). If you would like to completely remove Ads-related functionality, you can remove the **Unity Ads Provider** component from the **LevelScripts** Game Object.  
 
@@ -177,7 +169,7 @@ Advertisment-managing code is designed to support any ad provider, or even ad me
 
 To use an ad provider different than Unity Ads you need to create a class that extends **AbstractAdsProvider**. It’s really straight-forward. Take a look at the **UnityAdsProvider** class for an example. You can copy, rename and modify it to work with other ad providers (like AdMob). Add the new class as component to the **LevelScripts** GameObject and select this instance in the **Ads Provider** field of the **Revive Permission Provider** component.
 
-## COLR. Managing Colors and Gradients
+# COLR. Managing Colors and Gradients
 
 ---
 
