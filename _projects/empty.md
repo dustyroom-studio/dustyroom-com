@@ -47,9 +47,6 @@ If you are press and would like to cover *Empty.*, you can use these [promo mate
 
 <div class="image-link">
 <a href="https://apps.apple.com/app/id1191062782" class="image-link" target="_blank"><img src="/assets/images/appstore_button_download.png"></a>
-</div>
-
-<div class="image-link">
 <a href="https://play.google.com/store/apps/details?id=com.dustyroom.Empty" class="image-link" target="_blank"><img src="/assets/images/google-play-badge-1.png"></a>
 </div>
 

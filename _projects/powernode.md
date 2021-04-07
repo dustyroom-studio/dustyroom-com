@@ -46,8 +46,5 @@ Some time after a [Ludum Dare entry](http://dustyroom.com/supernode-ld39-entry/)
 
 <div class="image-link">
 <a href="https://apps.apple.com/us/app/powernode/id1339814815" class="image-link" target="_blank"><img src="/assets/images/appstore_button_download.png"></a>
-</div> 
-
-<div class="image-link">
 <a href="https://play.google.com/store/apps/details?id=com.dustyroom.supersum" class="image-link" target="_blank"><img src="/assets/images/google-play-badge-1.png"></a>
 </div> 

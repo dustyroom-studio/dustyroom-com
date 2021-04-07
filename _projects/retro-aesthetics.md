@@ -22,7 +22,8 @@ Key features included:
   * Sounds (Music + SFX)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/suI6L7yR0D4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-\
+  
+  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8EcD7yOba0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ---
@@ -34,4 +35,5 @@ Key features included:
 ---
 
 A print of Retro Aesthetics was exibited on Unity Art Gallery at Unite Austin in 2017!  
+
 ![](/assets/images/retro-aesthetics-IMG_2785-1-1024x627.jpg)
