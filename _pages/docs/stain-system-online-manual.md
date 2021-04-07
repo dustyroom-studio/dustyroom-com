@@ -1,6 +1,10 @@
 ---
 permalink: /stain-system-online-manual/
 title: "Stain System. Online Manual"
+toc: true
+toc_label: "Contents"
+toc_icon: "book"
+toc_sticky: true
 ---
 
 ![](/assets/images/manuals-images/stain-system/splatter-website-header-documentation.png)
@@ -19,19 +23,19 @@ Stain System includes **two major** components that perform the same task of gen
 
 
 1. **Bitmap splatters** – use textures to render particles. This approach allows to generate infinite number of splatters without ever slowing down, but it allocates some texture memory in the areas where splatters may be spawned. Here are advantages and disadvantages of this approach:
-  * + Infinite number of particles on any platform.
-  * + Can be used on moving or static objects.
-  * – Currently, only works in 2D.
-  * – Uses texture memory to generate splatter areas. Amount of memory is discussed in a section below.
-  * – Paint is not shared among the pre-positioned splatter-receiving areas touch or overlap.
-  * – Once splatters are spawned, they cannot be individually removed.
+  * ➕ Infinite number of particles on any platform.
+  * ➕ Can be used on moving or static objects.
+  * ➖ Currently, only works in 2D.
+  * ➖ Uses texture memory to generate splatter areas. Amount of memory is discussed in a section below.
+  * ➖ Paint is not shared among the pre-positioned splatter-receiving areas touch or overlap.
+  * ➖ Once splatters are spawned, they cannot be individually removed.
 2. **Mesh splatters** – use a single dynamic mesh to render particles. This approach allows to easily generate lots of particles, but the number of particles is limited. That said, this limit is way higher than most (even mobile) games require. Internally, this approach uses Unity’s build-in particle system to generate the mesh because it’s the only way to access and modify vertices with zero memory allocation. Here are pros and cons of this approach:
-  * + Works in 2D, 3D and isometry with a limitation of being planar (doesn’t simulate physical behaviour on corners).
-  * + In addition to the normal alpha blending, it’s possible to use multiply blending.
-  * + Anti-aliasing is possible and does not require any additional set-up.
-  * + Splatters can be tweened out after a time-out.
-  * – Number of particles is bound by GPU. Normally, it handles well up to 10K particles on old mobiles and more than 20K on desktop.
-  * – Splatters cannot be moved with dynamic objects.
+  * ➕ Works in 2D, 3D and isometry with a limitation of being planar (doesn’t simulate physical behaviour on corners).
+  * ➕ In addition to the normal alpha blending, it’s possible to use multiply blending.
+  * ➕ Anti-aliasing is possible and does not require any additional set-up.
+  * ➕ Splatters can be tweened out after a time-out.
+  * ➖ Number of particles is bound by GPU. Normally, it handles well up to 10K particles on old mobiles and more than 20K on desktop.
+  * ➖ Splatters cannot be moved with dynamic objects.
 
 Once you have decided on the approach that best suits your game, you can follow the instructions in one of the sections below. Note that bitmap and mesh splatters can be mixed together in the same scene.  
 
@@ -81,7 +85,7 @@ Comp Equal
 
 # Splatter Settings
 
-**Splatter Settings** is a reusable configuration file that describes how splatters behave and look. To create such file right-click anywhere in the Project window and select **Create -> SplatterSettings**. A new file will appear in your project that can be dropped into the **Default Settings** field of **SplatterSystemBitmap** or **SplatterSystemMesh** or when calling the **Spawn** method on either of these components. Explanation of each parameter is included in the Inspector view of the settings, to view them, check the **Show explanation** box at the bottom of the settings inspector.  
+**Splatter Settings** is a reusable configuration file that describes how splatters behave and look. To create such file right-click anywhere in the Project window and select **Create ▶︎ SplatterSettings**. A new file will appear in your project that can be dropped into the **Default Settings** field of **SplatterSystemBitmap** or **SplatterSystemMesh** or when calling the **Spawn** method on either of these components. Explanation of each parameter is included in the Inspector view of the settings, to view them, check the **Show explanation** box at the bottom of the settings inspector.  
 
 ![](/assets/images/manuals-images/stain-system/splatter_settings_interface.png)  
 

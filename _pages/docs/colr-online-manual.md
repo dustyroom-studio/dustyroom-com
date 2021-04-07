@@ -1,6 +1,10 @@
 ---
 permalink: /colr-online-manual/
 title: "Colr. Online Manual"
+toc: true
+toc_label: "Contents"
+toc_icon: "book"
+toc_sticky: true
 ---
 
 ![Colr Online Documentation](/assets/images/manuals-images/colr/colr-documentation-header.jpg)  
@@ -39,7 +43,7 @@ _**Important!** Master Shader Local Space does not support draw call batching an
 ![](/assets/images/manuals-images/colr/colr_addnewmaterial.png)  
 
 
-2) In Inspector panel under the name of the material you normally should see **Shader** menu with **Standard** selected. Click the drop-down menu -> navigate to **Colr** -> choose the **Master Shader**.  
+2) In Inspector panel under the name of the material you normally should see **Shader** menu with **Standard** selected. Click the drop-down menu ▶︎ navigate to **Colr** ▶︎ choose the **Master Shader**.  
 
 ![](/assets/images/manuals-images/colr/colr_switchtocolr-1.png)  
 
@@ -91,11 +95,11 @@ _**Important!** Master Shader Local Space does not support draw call batching an
 
 1) create empty material, name it Skybox.  
 
-2) In Inspector panel under the name of the material you normally should see **Shader** menu with **Standard** selected. Click the drop-down menu -> navigate to **Colr** -> choose **Gradient Skybox**.  
+2) In Inspector panel under the name of the material you normally should see **Shader** menu with **Standard** selected. Click the drop-down menu ▶︎ navigate to **Colr** ▶︎ choose **Gradient Skybox**.  
 
 3) Choose **Top Color** and **Bottom Color** of your skybox either with color pop up menu (click on the color rectangle) or with a color picker (click the “eyedropper” icon and click on any place of the scene where you see a desired color).  
 
-4) To apply the skybox to the scene, go to **Hierarchy** tab -> **Starting Components** -> select **MultipurposeCameraRig**. Go to **Lighting** tab -> click **Scene** button. There is a **Skybox** pick up menu under Environment Lighting part of the window. Click the “aim” icon and choose you Skybox material.  
+4) To apply the skybox to the scene, go to **Hierarchy** tab ▶︎ **Starting Components** ▶︎ select **MultipurposeCameraRig**. Go to **Lighting** tab ▶︎ click **Scene** button. There is a **Skybox** pick up menu under Environment Lighting part of the window. Click the “aim” icon and choose you Skybox material.  
 
 
 # Other parameters of COLR Skybox Gradient

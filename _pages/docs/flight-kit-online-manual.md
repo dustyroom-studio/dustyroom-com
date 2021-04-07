@@ -42,7 +42,7 @@ If you would like to create a scene from scratch or add flight capabilities to a
 
 # Chaining Levels
 
-Attaching scenes to other scenes is defined in the **LevelCompleteController** class (you can find it in hierarchy: UICanvas -> LevelScripts). The default behavior is meant to be overridden in the only method of this class, **HandleLevelComplete**. What actions need to be performed when the player wins a level is up to you – it heavily depends on what game you are making. That’s why the default behavior is just restarting the current scene.  
+Attaching scenes to other scenes is defined in the **LevelCompleteController** class (you can find it in hierarchy: UICanvas ▶︎ LevelScripts). The default behavior is meant to be overridden in the only method of this class, **HandleLevelComplete**. What actions need to be performed when the player wins a level is up to you – it heavily depends on what game you are making. That’s why the default behavior is just restarting the current scene.  
 
 # Adding New Airplanes
 
@@ -122,7 +122,7 @@ void OnPlayClicked() {
 
 # Standalone & Mobile Controls
 
-To switch from **Standalone to Mobile controls** you need to change the build platform of Unity to the desired mobile platform and go to menu **Mobile Input -> Enable**. This will switch on the MobileUI and the corresponding Controls Menu elements to tilt and touch controls. While testing the game in Unity Editor, you can disable Mobile Input to control the airplane with the keyboard.  
+To switch from **Standalone to Mobile controls** you need to change the build platform of Unity to the desired mobile platform and go to menu **Mobile Input ▶︎ Enable**. This will switch on the MobileUI and the corresponding Controls Menu elements to tilt and touch controls. While testing the game in Unity Editor, you can disable Mobile Input to control the airplane with the keyboard.  
 To **switch from mobile to standalone controls** you only need to change Unity build target to a standalone platform.  
 
 Here is a video showing how to switch between standalone and mobile controls:  

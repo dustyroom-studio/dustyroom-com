@@ -1,18 +1,22 @@
 ---
 permalink: /retro-aesthetics-online-manual/
 title: "Retro Aesthetics. Online Manual"
+toc: true
+toc_label: "Contents"
+toc_icon: "book"
+toc_sticky: true
 ---
 
 ![Retro Aesthetics online documentation](/assets/images/manuals-images/retro-aesthetics/retro-aesthetics-manual-header.png)  
-
-**Retro Aesthetics** asset provides all resources to turn a game of any genre into a stylish 80’s movies inspired title. It covers object materials, a full-screen camera effect, textures and UI, sound effects and music, as well as color presets and demos of the asset in action. We made it easily extensible to give you a possibility to tune to the unique needs of your game. In this document we describe each component of the asset and explain how it can be tuned to your needs.  
 ---
+**Retro Aesthetics** asset provides all resources to turn a game of any genre into a stylish 80’s movies inspired title. It covers object materials, a full-screen camera effect, textures and UI, sound effects and music, as well as color presets and demos of the asset in action. We made it easily extensible to give you a possibility to tune to the unique needs of your game. In this document we describe each component of the asset and explain how it can be tuned to your needs.  
+
 
 # Demos
 
 We believe that the best way to learn the asset is by playing with the provided demos. The included demos are **completely optional**, but if you’d like to check them out, extract the _RetroAestheticsDemos.unitypackage_ in the _RetroAesthetics/Demos_ folder.  
 
-To view the demos you need to import the [Post Processing Stack](https://docs.unity3d.com/Packages/com.unity.postprocessing@2.3/manual/index.html){:target="_blank"} asset as well. Go to **Window -> Package Manager**, switch the view from **In Project** to **Unity Registry** and select **Post Processing** in the list. In the right panel you’ll find information about the package and a button to download and import or update to the latest available version for the currently running version of Unity.  
+To view the demos you need to import the [Post Processing Stack](https://docs.unity3d.com/Packages/com.unity.postprocessing@2.3/manual/index.html){:target="_blank"} asset as well. Go to **Window ▶︎ Package Manager**, switch the view from **In Project** to **Unity Registry** and select **Post Processing** in the list. In the right panel you’ll find information about the package and a button to download and import or update to the latest available version for the currently running version of Unity.  
 
 Our **Demos** package includes two sets of scenes: a generic menu (_Demos/Menu_) and an example game, which we chose to be an arcade racing (_Demos/Racing_). Each of those demos includes some specific resources, which are located in the same folder as the scenes. If you do not need the demos in your project, feel free not to import the root Demos folder, so that only core asset resources are added to your game.  
 
@@ -92,7 +96,7 @@ The similar interpolation problems (unless it’s not a problem) may occur when 
 
 ![Objects edges/lines using frames textures](/assets/images/manuals-images/retro-aesthetics/retro-aesthetics_blender_frames.png)  
 
-On the **first** picture, the model has physically predefined thin edges, which are projected on the white portion of the texture (white=glow, black=diffuse) (_RetroAesthetics/Textures**/*UVs**_), on the **second** one we used a frame texture (due to the fact the ratio of black/white is uneven, we called it “frames” (_RetroAesthetics/Textures**/Frames**_) Basically, we needed any repeating pattern, where would be thin whites and thick blacks). On the model itself, the white parts are not hard-predefined, unlike in the first example. In other words, The white/black boundaries are are made in the model itself (1) and in the texture (2). The result is, again, the smooth thin lines that you get in Unity.
+On the **first** picture, the model has physically predefined thin edges, which are projected on the white portion of the texture (white=glow, black=diffuse) (_RetroAesthetics/Textures**/UVs**_), on the **second** one we used a frame texture (due to the fact the ratio of black/white is uneven, we called it “frames” (_RetroAesthetics/Textures**/Frames**_) Basically, we needed any repeating pattern, where would be thin whites and thick blacks). On the model itself, the white parts are not hard-predefined, unlike in the first example. In other words, The white/black boundaries are are made in the model itself (1) and in the texture (2). The result is, again, the smooth thin lines that you get in Unity.
 
 # Camera Post-Effect
 
@@ -100,7 +104,7 @@ On the **first** picture, the model has physically predefined thin edges, which 
 
 This is where things get particularly interesting. You’ve got the variety of well-thought bits of vintage authenticity going on camera. The controls of the components look simple and clear. What makes the difference is the combination of things. Should you want to mimic the subtle wear of the cassette – bypass a few of effects, go moderate with those turned on. Or, if you want the heavy effect, you can do it, too.  
 
-![Camera retro effects](/assets/images/manuals-images/retro-aesthetics/retro-aesthetics_cam-retro-effects.png)  
+![Camera post-effects](/assets/images/manuals-images/retro-aesthetics/retro-aesthetics_cam-retro-effects.png)  
 
 
 So, the main components of the camera effects are:
@@ -115,7 +119,7 @@ So, the main components of the camera effects are:
   # Gamma Scale
   # Scanlines
 
-**_Important:_** If the RetroCameraEffect is not showing in the build of your game, it is probably because it’s not directly referenced in the project. To fix this, you need to add the effect shader to the always included shader list. To do this, go to Edit -> Project Settings -> Graphics and drag the _RetroAesthetics/Shaders/Post-processing/RetroCameraEffect.shader_ file from Library to the “Always Included Shaders” list, appending it as a last item.
+**_Important:_** If the RetroCameraEffect is not showing in the build of your game, it is probably because it’s not directly referenced in the project. To fix this, you need to add the effect shader to the always included shader list. To do this, go to Edit ▶︎ Project Settings ▶︎ Graphics and drag the _RetroAesthetics/Shaders/Post-processing/RetroCameraEffect.shader_ file from Library to the “Always Included Shaders” list, appending it as a last item.
 
 # Models and Meshes
 
@@ -129,7 +133,7 @@ You can find a lot of pieces of UI included in the asset. An example of so-calle
 
 You can use the fonts installed on your system, apply a gradient mask or a solid color if needed. That requires quite some time. Alternatively, there are a bunch of bitmap fonts included into the asset _(Fonts/Bitmap)_. The beauty of these is in the fact that the bitmap fonts have pre-applied gradient masks, they are ready to use – you don’t have to install them on your system, they are performance-friendly. Additionally, you can find even more fonts online by browsing websites like [Fontspace](https://www.fontspace.com/){:target="_blank"}. Moreover, we added each font in two versions: the one with pre-defined color texture; but if you’d like to change the color yourself, there is a second version, with plain white tint. You can distinguish them by looking at the name of the folder with corresponding font. In example, _Monotron1_ (the colored one) and _Monotron_white_ (the one for you to color).
 
-HINT: Check out [“Littera”](http://kvazars.com/littera/){:target="_blank"} online service for bitmap fonts. It’s great!
+HINT: Check out [Littera](http://kvazars.com/littera/){:target="_blank"} online service for bitmap fonts. It’s great!
 
 # Audio
 
