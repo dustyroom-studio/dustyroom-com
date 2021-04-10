@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<head>
+<meta charset="UTF-8">
+<title>Everloop</title>
+
+<!-- start Mixpanel -->
+<script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+    for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
+mixpanel.init("86eb932a3b5e3dfd3af050dce3473a62");</script>
+<!-- end Mixpanel -->
+
+<script src="https://code.createjs.com/preloadjs-0.6.1.min.js"></script>
+<script src="https://code.createjs.com/easeljs-0.8.1.min.js"></script>
+<script src="https://code.createjs.com/tweenjs-0.6.1.min.js"></script>
+<script src="https://code.createjs.com/movieclip-0.8.1.min.js"></script>
+<script src="https://code.createjs.com/soundjs-0.6.1.min.js"></script>
+<!--<script src="EverloopLib.js"></script>-->
+<!--<script src="ButtonLayer.js"></script>-->
+<!--<script src="ButtonSfx.js"></script>-->
+<!--<script src="Everloop.js"></script>-->
+<script src="Everloop.min.js"></script>
+
+</head>
+
+<script>
+function show() {
+    if (document.getElementById('expand').style.display == 'none') {
+        document.getElementById('expand').style.display = 'block';
+    } else {
+        document.getElementById('expand').style.display = 'none';
+    }
+}
+function showfaq() {
+    if(document.getElementById('expandfaq').style.display == 'none') {
+        document.getElementById('expandfaq').style.display = 'block';
+    } else {
+        document.getElementById('expandfaq').style.display = 'none';
+    }
+}
+</script>
+
+<div class="verticalspace"></div>
+<h1>
+    click pads anytime in any order and combination
+</h1>
+<div class="verticalspace"></div>
+
+<body onload="init();" style="background-color:#050d0d">
+	<div id="container" align="center">
+		<canvas id="canvas"	width="1050" height="712" style="background-color:#080808">
+		</canvas>
+	</div>
+
+    <img src="images/object-shadow.png" class="shadow">
+
+    <h1>
+        the pack contains 5 more tracks not shown in the demo
+    </h1>
+    <h1>
+        each free update adds new tracks to the pack
+    </h1>
+
+    <div class="verticalspacebig"></div>
+	<img src="images/arrow.png" class="arrow">
+	<img src="images/logo-everloop.png" class="everlooplogo">
+
+    	<h1>EVERLOOP IS A NON-LINEAR CONTINUOUS NEVER-REPEATING SOUNDTRACK SUITE.</h1>
+    <div class="verticalspacebig"></div>
+    <div class="embedplayer">
+        <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/222164240&amp;color=f26522&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+    </div>
+
+    <div class="embedplayer2">
+        <iframe width=100% height="166" src="https://www.youtube.com/embed/zU0WFwDfaYU" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="verticalspacebig"></div>
+    <a href="javascript:" onclick="showfaq()" class="textlink">
+        <h2>FREQUENTLY ASKED QUESTIONS &#x25BC;</h2>
+    </a>
+
+    <div id="expandfaq" class="expand" style="display:none">
+        <div class="question">
+            Q: WHAT IS SPECIAL ABOUT EVERLOOP?
+        </div>
+        <div class="answer">
+            A: Please read the following
+            <a href="http://dustyroom.com/everloop-diy-soundtrack/" class="textlink" target="_blank">BLOG POST</a>
+        </div>
+
+        <div class="question">
+            Q: HOW CAN I USE EVERLOOP?
+        </div>
+        <div class="answer">
+            A: Everloop is just a collection of sounds. You could place / call them manually or in the code
+            (for simple linear events - be it regular gameplay or being in a game menu). Or you could automatically
+            vary the number of sounds playing simultaneously (for events that are non-linear, or dependent on the player
+            but not on the time). More information about linearity and non-linearity can be found on
+            <a href="https://en.wikipedia.org/wiki/Nonlinear_gameplay" class="textlink"  target="_blank">WIKIPEDIA</a>
+        </div>
+
+        <div class="question">
+            Q: IF IT IS ONLY AUDIO, WHY DID YOU BOTHER MAKING AN APP WITH ALL THOSE FANCY GRAPHICS?
+        </div>
+        <div class="answer">
+            A: We think it is the best way for you to see if Everloop fits your needs as the
+            <a href="https://soundcloud.com/dstrm/sets/everloop-never-ending-soundtrack-suite/s-zuVnb" class="textlink"
+               target="_blank">demo tracks on Soundcloud</a>
+            or demo in
+            <a href="http://youtu.be/zU0WFwDfaYU" class="textlink" target="_blank">YouTube video</a>
+            might not sparkle that inspiration in your mind.
+        </div>
+
+        <div class="question">
+            Q: WHY ARE THERE MORE AUDIO FILES IN THE PACKAGE THAN IN THE DEMONSTRATION APP?
+        </div>
+        <div class="answer">
+            A: We add more audio content to Everloop with updates. The graphic representation is intentionally limiting,
+            disallowing to play too many instruments at the same time.
+        </div>
+
+        <div class="question">
+            Q: WHERE CAN I USE EVERLOOP? IS IT ONLY FOR UNITY PROJECTS?
+        </div>
+        <div class="answer">
+            A: In game, video, website, milk production. Anywhere you need flawless and never-ending soundtrack.
+            Although Everloop was designed to be used in games and especially it is a breeze to utilize it in Unity, you
+            can go on with any tools you prefer.
+        </div>
+
+        <div class="question">
+            Q: CAN I ADD MY OWN AUDIO TRACKS? WHAT DO I NEED TO KNOW?
+        </div>
+        <div class="answer">
+            A: Sure! Record anything you would like to hear in your project. Anything that wouldn't clash with default
+            sound tracks. To do it you might want to skim through a few tips. Record in C major
+            [more info <a href="https://en.wikipedia.org/wiki/C_major" class="textlink"  target="_blank">here</a>].
+            Record while listening to 1-3 tracks playing in your headphones as a reference. However the demonstration
+            tool does not support loading custom files yet, we think it would be a nice feature to add in future
+            updates.
+        </div>
+
+        <div class="question">
+            Q: WHAT ARE THE TECHNICAL DETAILS OF THE AUDIO FILES?
+        </div>
+        <div class="answer">
+            A: 44.1 kHz 16 bit Stereo WAV files.
+        </div>
+
+        <div class="question">
+            Q: HOW TO IMPLEMENT EVERLOOP INTO MY PROJECT? IS THERE ANY DOCUMENTATION?
+        </div>
+        <div class="answer">
+            A: Scripting reference can be found here: <a href="http://dustyroom.com/everloop/api/" class="textlink" target="_blank">REFERENCE</a>
+        </div>
+        
+        <div class="question">
+            Q: DO YOU GUYS LIKE HATS?
+        </div>
+        <div class="answer">
+            A: Yes, we dig them.
+        </div>
+
+        <div class="question">
+            STILL GOT QUESTIONS? SHOOT THEM TO INFO [AT] DUSTYROOM [DOT] COM
+        </div>
+    </div>
+
+    <a href="http://dustyroom.com/everloop-diy-soundtrack/" class="textlink" target="_blank">
+        <h2>READ BLOG POST</h2>
+    </a>
+    <a href="http://forum.unity3d.com/threads/released-everloop-nonlinear-soundtrack-kit.356726/" class="textlink"
+       target="_blank">
+        <h2>UNITY FORUM</h2>
+    </a>
+
+    <a href="javascript:" onclick="show();" class="buttonlarge"><div>GET EVERLOOP</div></a>
+    <div id="expand" class="expand" style="display:none">
+        <a href="https://www.assetstore.unity3d.com/en/#!/content/45205" target="_blank">
+            <img class="imgbutton" src="images/logo-unity.png">
+        </a>
+        <!--
+        <a href="https://www.assetstore.unity3d.com/en/#!/content/45205" target="_blank">
+            <img class="imgbutton" src="images/logo-ue.png">
+        </a>
+        -->
+        <a href="https://dustyroom.bandcamp.com/album/everloop" target="_blank">
+            <img class="imgbutton" src="images/logo-bc.png">
+        </a>
+        <!--
+        <a href="https://www.assetstore.unity3d.com/en/#!/content/45205" target="_blank">
+            <img class="imgbutton" src="images/logo-audiojungle.png">
+        </a>
+        -->
+    </div>
+
+	<a href="http://dustyroom.com" target="_blank">
+	    <img src="images/logo-dustyroom.png" class="dustyroomlogo">
+	</a>
+
+    <!--Google Analytics-->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-53337407-4', 'auto');
+        ga('send', 'pageview');
+    </script>
+</body>
+</html>
