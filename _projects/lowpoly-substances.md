@@ -1,7 +1,7 @@
 ---
 permalink: /lowpoly-substances/
 title: "Lowpoly Substances"
-excerpt: "Lowpoly animated shaders for Unity."
+excerpt: "Animated shaders for Unity."
 header:
   image: /assets/images/teaser-header.png
   teaser: assets/images/lowpoly-substances.png
