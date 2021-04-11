@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Everloop</title>
+
+	<website>http://www.evrlp.com/</website>    
+	<website>http://www.dustyroom.com/</website>
+	<press-can-request-copy>FALSE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Web (HTML5)</name>
+			<link>evrlp.com</link>
+		</platform>
+	</platforms>
+<release-date>Somewhere in October 2015</release-date>
+	<description>
+		
+Everloop is the collection of beautiful organic hand-crafted and processed original ambient music tracks. These tracks are the single-instrument layers, building blocks of the instant flawless soundtrack you can create and vary on the fly. The beauty of Everloop is that you can start or stop the layers anytime you want, in any order. They will sound great simultaneously in any combination. There is the Randomize option, which ignites a few tracks picked by machine. Also you can engage Autopilot to make tracks drift slowly.
+
+	</description>
+
+	<history>
+		Initially Everloop was produced as a game asset for Unity Asset Store to be used in games as a non-linear do-it-yours soundtrack. But the idea of such a tool emerged into something that deserves a much broader audience, the website everyone can freely land on and have a beautiful sonic experience.
+	</history>
+
+	<features>
+		<feature>Background noise/music website</feature>
+		<feature>Great for workout, studying, chilling etc</feature>
+		<feature>Never-ending and non-repeating audio outcome</feature>
+		<feature>Pleasant-looking graphics</feature>
+	</features>
+
+		<additionals>
+		<additional>
+			<title>Tracks download</title>
+			<description>In case you want the audio files to settle on your computer offline, you can get them at Bandcamp.</description>
+			<link>https://dustyroom.bandcamp.com/album/everloop</link>
+		</additional>
+		<additional>
+			<title>Listen at SoundCloud</title>
+			<description>You can hear the random moments captured from Everloop in action.</description>
+			<link>https://soundcloud.com/dstrm/sets/everloop-never-ending-soundtrack-suite/s-zuVnb</link>
+		</additional>
+
+		<additional>
+			<title>General idea</title>
+			<description>Everloop was inspired by the website project inbflat.net, where people upload their music pieces to YouTube. After the authors of the project validate contributors music, it appears as embedded YouTube clip on inbflat.net alongside other music parts. All music is in B flat scale.</description>
+			<link>http://inbflat.net/</link>
+		</additional>
+		</additionals>
+    
+    <awards>
+        <award>
+            <description></description>
+            <info></info>
+        </award>
+    </awards>
+
+	<trailers>
+	   <trailer>
+		<name>Early version demo</name>
+		<youtube>zU0WFwDfaYU</youtube>
+        	<mp4></mp4>
+	   </trailer>	
+	</trailers>
+    
+	<credits>
+		<credit>
+			<person>Volodymyr Dzitsiuk</person>
+			<website>www.polygrimmusic.com</website>
+			<role>Artist, Music</role>
+		</credit>
+		<credit>
+			<person>Max Dzitsiuk</person>
+			<role>Code, Website</role>
+		</credit>
+	</credits>
+</game>

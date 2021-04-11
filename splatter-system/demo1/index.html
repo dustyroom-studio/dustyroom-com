@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Splatter System. Demo Scene 1</title>
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <link rel="shortcut icon" href="TemplateData/favicon.ico" />
+      <link rel="shortcut icon" href="TemplateData/favicon.png" />
+    <script src="TemplateData/UnityProgress.js"></script>
+  </head>
+  <body class="template">
+    <p class="header"><span>Splatter System. Demo Scene 1 </span></p>
+    <div class="template-wrap clear">
+      <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="600px" width="960px"></canvas>
+      <br>
+      <div class="logo"></div>
+      <div class="fullscreen"><img src="TemplateData/fullscreen.png" width="38" height="38" alt="Fullscreen" title="Fullscreen" onclick="SetFullscreen(1);" /></div>
+      <div class="logo">Splatter System</div><div class="title">Demo Scene <span class="txtbg">1</span></div>
+    </div>
+    <p class="footer">&laquo; created with <a href="http://unity3d.com/" title="Go to unity3d.com">Unity</a> &raquo;</p>
+
+      <div class="information">
+        <a target="_blank" href="https://www.dropbox.com/s/7pz42rc6w8fe68x/splatter-system-demo1.apk?dl=1">Download APK</a><br />
+        <a href="http://dustyroom.com/splatter-system" target="_blank">Splatter System Web Page</a><br />
+        <a href="http://dustyroom.com/splatter-system/demo2/" target="_blank">Demo Scene 2</a><br />  
+        <a href="http://dustyroom.com/splatter-system/demo3/" target="_blank">Demo Scene 3</a>
+    </div>
+
+    <script type='text/javascript'>
+  var Module = {
+    TOTAL_MEMORY: 536870912,
+    errorhandler: null,			// arguments: err, url, line. This function must return 'true' if the error is handled, otherwise 'false'
+    compatibilitycheck: null,
+    dataUrl: "Release/demo1.data",
+    codeUrl: "Release/demo1.js",
+    memUrl: "Release/demo1.mem",
+  };
+</script>
+<script src="Release/UnityLoader.js"></script>
+
+  </body>
+</html>

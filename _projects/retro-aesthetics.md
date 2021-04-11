@@ -29,7 +29,7 @@ Key features included:
 ---
 
 [Get Asset](https://assetstore.unity.com/packages/tools/particles-effects/retro-aesthetics-79538?aid=1101lHzQ&utm_source=aff){:target="_blank"}  
-[WebGL Demo](http://dustyroom.com/retro-aesthetics/demo1/){:target="_blank"}  
+[WebGL Demo](/retro-aesthetics/demo1/){:target="_blank"}  
 [Documentation](/retro-aesthetics-online-manual/){:target="_blank"}  
 
 ---

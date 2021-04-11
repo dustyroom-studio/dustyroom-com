@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>
+	<title>Dustyroom</title>
+	<founding-date>September 1, 2010</founding-date>
+	<website>http://www.dustyroom.com/</website>
+	<based-in>Kyiv, Ukraine</based-in>
+
+	<press-contact>info@dustyroom.com</press-contact>
+	<phone>+380 63 179 95 17</phone>
+
+	<socials>
+		<social>
+			<name>Twitter</name>
+			<link>https://twitter.com/dustyroomgames</link>
+		</social>
+		<social>
+			<name>SoundCloud</name>
+			<link>https://soundcloud.com/dstrm</link>
+		</social>
+	</socials>
+
+	<description>
+		We're two-brother game dev studio. We made some casual games, but now we're onto some weird stuff.
+	</description>
+
+	<histories>
+		<history>
+			<header>Early history</header>
+			<text>Students, making flash games and selling them on FGL.</text>
+		</history>
+		<history>
+			<header>After that</header>
+			<text>Working with Prize.com as an independent game dev studio.</text>
+		</history>
+	</histories>
+<!--
+	<trailers>
+		<trailer>
+			<name>Stunt Rush Release Trailer</name>
+			<youtube>vcEcihRuEx4</youtube>
+		</trailer>
+		<trailer>
+			<name>Stunt Rush Announcement Trailer</name>
+			<youtube>L1wfGpXjeIs</youtube>
+		</trailer>
+	</trailers>
+-->
+	<awards>
+		<award>
+			<description>[Polar Slide] Most compelling app created by a student or faculty member</description>
+			<info>BlackBerry Developer Challenge, 2011</info>
+        </award>
+        <award>
+            <description>[Stunt Rush] People Choice Award</description>
+            <info>Yodo Game Awards, Ukraine, 2015</info>
+        </award>
+	</awards>
+
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->
+	<additionals>
+		<additional>
+			<title>Soundtrack</title>
+			<description>You can check out Vol's Soundcloud to hear the soundtrack even more great stuff!</description>
+			<link>https://soundcloud.com/polygrim</link>
+		</additional>
+	</additionals>
+
+	<credits>
+		<credit>
+			<person>Volodymyr Dzitsiuk</person>
+			<website>www.polygrimmusic.com</website>
+			<role>Artist, Music</role>
+		</credit>
+		<credit>
+			<person>Max Dzitsiuk</person>
+			<role>Code</role>
+		</credit>
+	</credits>
+
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>info@dustyroom.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/dustyroomgames</link>
+		</contact>
+	</contacts>
+</game>

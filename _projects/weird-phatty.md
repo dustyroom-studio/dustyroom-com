@@ -38,5 +38,5 @@ Liked this sample pack? Please consider donating.
 
 ---
 
-#### Subscribe to get notified about our upcoming freebies ❤️  
+##### Subscribe to get notified about our upcoming freebies ❤️  
 {% include mailchimp.html %}

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Stunt Rush</title>
+    <release-date>Android - Jan 3, 2015; iOS - Feb 7, 2015</release-date>
+	<website>http://www.dustyroom.com/</website>
+	<press-can-request-copy>FALSE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Android</name>
+			<link>https://play.google.com/store/apps/details?id=com.prize.stuntracing</link>
+		</platform>
+		<platform>
+			<name>iOS</name>
+			<link>https://itunes.apple.com/us/app/id956624070</link>
+		</platform>
+		<platform>
+			<name>Windows Phone</name>
+			<link>Coming Soon</link>
+		</platform>
+	</platforms>
+
+	<prices>
+		<price>
+			<!--<currency>USD</currency>-->
+			<value>Free (In-app purchases of virtual currency, easy to complete game without it)</value>
+		</price>
+	</prices>
+
+	<description>
+		Stunt Rush is an indie arcade racing game that combines the intense survival
+		action with the exploration of an atmospheric world.
+		Your garage consists of unique buggy cars that allow you to boost,
+		steer in air, and even rewind time backwards!
+		Go ride the fast lanes in the world dog rocks and debris!
+	</description>
+
+	<history>
+		It's an indie game, created by two people from scratch. It took about half a year to create Stunt Rush.
+		We wanted to make something fun and weirdly beautiful at the same time and we're quite happy about the result.
+	</history>
+
+	<features>
+		<feature>Intense jump filled levels</feature>
+		<feature>Unique powerful buggy cars</feature>
+		<feature>Ability to rewind time backwards at any point in level</feature>
+		<feature>Very exlusive very original and very amazing soundtrack</feature>
+		<feature>Atmospheric world that only an indie studio can pull off :)</feature>
+	</features>
+
+	<trailers>
+		<trailer>
+			<name>Release Trailer</name>
+			<youtube>vcEcihRuEx4</youtube>
+            <mp4>stuntrush_trailer_2.mp4</mp4>
+		</trailer>
+		<trailer>
+			<name>Announcement Trailer</name>
+			<youtube>L1wfGpXjeIs</youtube>
+            <mp4>stuntrushtrailer.mp4</mp4>
+		</trailer>
+	</trailers>
+
+	<additionals>
+		<additional>
+			<title>Original Soundtrack</title>
+			<description>Vol's Soundcloud with the soundtrack even more great stuff!</description>
+			<link>https://soundcloud.com/polygrim</link>
+		</additional>
+	</additionals>
+    
+    <awards>
+        <award>
+            <description>People Choice Award</description>
+            <info>Yodo Game Awards, Ukraine, 2015</info>
+        </award>
+    </awards>
+    
+	<credits>
+		<credit>
+			<person>Volodymyr Dzitsiuk</person>
+			<website>www.polygrimmusic.com</website>
+			<role>Artist, Music</role>
+		</credit>
+		<credit>
+			<person>Max Dzitsiuk</person>
+			<role>Code</role>
+		</credit>
+	</credits>
+</game>
