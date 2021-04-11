@@ -16,7 +16,7 @@ $monospace          : Monaco, Consolas, "Lucida Console", monospace;
 body {
  color:#e4decf;
  line-height:1.1;
- background: #1d1c21;
+ background: #101213 url("../images/bg.png") repeat;
 }
 
 a {
@@ -141,8 +141,7 @@ sidebar p {
 
 form {
  padding:0.1em;
- background-color:#1d1c21;
-
+ background-color:#101213;
 }
 
 .nav__sub-title {
@@ -154,7 +153,7 @@ form {
     font-weight: bold;
     text-transform: uppercase;
     border: 1px solid #e4decf;
-/*  color: #1d1c21;*/
+/*  color: #101213;*/
 /*  background-color: #e4decf;*/
 }
 
@@ -164,7 +163,7 @@ form {
 
 .greedy-nav {
  min-height:1em;
- background:#1d1c21;
+ background:#101213;
  color:#e4decf;
 }
 
@@ -230,6 +229,6 @@ a.image-link{
  animation:intro 0.3s both;
  -webkit-animation-delay:0.45s;
  animation-delay:0.45s;
- background-color:#1d1c21;
-  font-size: 0.8em;
+ background-color:#101213;
+ font-size: 0.8em;
 }
