@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Flight Kit. Demo Scene 1</title>
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <link rel="shortcut icon" href="TemplateData/favicon.ico" />
+      <link rel="shortcut icon" href="TemplateData/favicon.png" />
+    <script src="TemplateData/UnityProgress.js"></script>
+  </head>
+  <body class="template">
+    <p class="header"><span>Flight Kit. Demo Scene 1</p>
+    <div class="template-wrap clear">
+      <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="500px" width="960px"></canvas>
+      <br>
+      <div class="logo"></div>
+      <div class="fullscreen"><img src="TemplateData/fullscreen.png" width="38" height="38" alt="Fullscreen" title="Fullscreen" onclick="SetFullscreen(1);" /></div>
+      <div class="logo">Flight Kit</div><div class="title">Demo Scene <span class="txtbg">1</span></div>
+    </div>
+    <p class="footer">&laquo; created with <a href="http://unity3d.com/" title="Go to unity3d.com">Unity</a> &raquo;</p>
+       
+    <div class="information">
+          <a target="_blank" href="https://www.dropbox.com/s/nabjby3l33551xd/FlightKit_demo1.apk?dl=1">Download APK</a>
+          <br />
+         <a href="http://dustyroom.com/flight-kit" target="_blank">Flight Kit Web Page</a>
+          <br />  
+        <a href="http://dustyroom.com/flight-kit/demo2/" target="_blank">Demo Scene 2</a>
+    </div>
+
+      
+      
+      
+      
+<script>
+function show() {
+    if (document.getElementById('expand').style.display == 'none') {
+        document.getElementById('expand').style.display = 'block';
+    } else {
+        document.getElementById('expand').style.display = 'none';
+    }
+}
+function showfaq() {
+    if(document.getElementById('expandfaq').style.display == 'none') {
+        document.getElementById('expandfaq').style.display = 'block';
+    } else {
+        document.getElementById('expandfaq').style.display = 'none';
+    }
+}
+</script>
+      
+      <div class="screenshotcontainer">  
+          
+          
+      
+      <a href="javascript:" onclick="show();" class="buttonlarge">
+      <div class="screenshotheadertext">
+    Screenshots from Scene 1
+    </div>
+      </a>
+          
+          
+    <div id="expand" class="expand" style="display:none">
+        <div class="screenshots">
+      
+        <img class="screenshot" src="../screenshots/1-1.png">
+        <img class="screenshot" src="../screenshots/1-2.png">
+        <img class="screenshot" src="../screenshots/1-3.png">
+        <img class="screenshot" src="../screenshots/1-4.png">
+        <img class="screenshot" src="../screenshots/1-5.png">    
+        
+    </div>
+    </div>
+      
+      
+      
+
+    
+    
+    
+ </div>
+    
+    
+      <script type='text/javascript'>
+  var Module = {
+    TOTAL_MEMORY: 268435456,
+    errorhandler: null,			// arguments: err, url, line. This function must return 'true' if the error is handled, otherwise 'false'
+    compatibilitycheck: null,
+    dataUrl: "Release/FlightKit.data",
+    codeUrl: "Release/FlightKit.js",
+    memUrl: "Release/FlightKit.mem",
+  };
+</script>
+<script src="Release/UnityLoader.js"></script>
+
+  </body>
+</html>

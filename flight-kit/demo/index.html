@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Flight Kit | Demo</title>
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <link rel="shortcut icon" href="TemplateData/favicon.ico" />
+    <script src="TemplateData/UnityProgress.js"></script>
+  </head>
+  <body class="template">
+    <div class="template-wrap clear">
+      <canvas class="emscripten" id="canvas"
+              oncontextmenu="event.preventDefault()"
+              height="500px" width="960px">
+      </canvas>
+      <br>
+      <div class="fullscreen"><img src="TemplateData/fullscreen.png"
+           width="38" height="38" alt="Fullscreen" title="Fullscreen"
+           onclick="SetFullscreen(1);" /></div>
+      <div class="title">Flight Kit</div>
+
+      <div class="buttons">
+        <div>
+          <a href="https://www.dropbox.com/s/ohpu10cngi4k0d8/FlightKit.apk?dl=1"
+            target="_blank" class="maintextlink">Download Android APK</a>
+        </div>
+
+        <div>
+          <a href="http://dustyroom.com/flight-kit-manual/" target="_blank"
+             class="textlink">Documentation</a>
+        </div>
+
+        <div>
+          <a href="http://u3d.as/og6" target="_blank" class="textlink">
+            Asset Store
+          </a>
+        </div>
+
+        <div>
+          <a href="http://forum.unity3d.com/threads/wip-flight-kit-arkade-style-flight-simulator.384929/"
+             target="_blank" class="textlink">Forum Thread</a>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript">
+  var Module = {
+    TOTAL_MEMORY: 268435456,
+    errorhandler: null,			// arguments: err, url, line. This function must return 'true' if the error is handled, otherwise 'false'
+    compatibilitycheck: null,
+    dataUrl: "Release/FlightKit.data",
+    codeUrl: "Release/FlightKit.js",
+    memUrl: "Release/FlightKit.mem",
+  };
+</script>
+<script src="Release/UnityLoader.js"></script>
+  </body>
+</html>

@@ -1,9 +1,0 @@
-{
-"TOTAL_MEMORY": 536870912,
-"dataUrl": "supernode.data.unityweb",
-"asmCodeUrl": "supernode.asm.code.unityweb",
-"asmMemoryUrl": "supernode.asm.memory.unityweb",
-"asmFrameworkUrl": "supernode.asm.framework.unityweb",
-"splashScreenStyle": "Dark",
-"backgroundColor": "#231F20"
-}
